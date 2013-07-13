@@ -1,6 +1,6 @@
-Robert Yi JIANG
-Unit 10              	                                                                       
-19-21 Good St.	                                                                      
+# **Robert Yi JIANG**
+Unit 10 
+19-21 Good St.	
 Parramatta NSW 2150
 Mobile: 04 3309 2885
 Email: robert.yi.jones@gmail.com
@@ -12,17 +12,17 @@ experience in Aegon-cnooc, 2 years project assistant experience in China Telecom
 Technology, Sydney. Recently, I am crazy on iPhone/iPad Apps developing over half year 
 with several funny demos.
  
-Key Strengths
+##Key Strengths
 - Curiosity for latest technologies
 - I thrive under pressure
 - A great motivator
 Strong problem solving ability
 Strong communication skills
  
-Professional Affiliation
+##Professional Affiliation
 Member of Australian Computer Society (ACS)
  
-Skills
+##Skills
 Comprehensive IT trouble shooting skills,
 Proficient in using JAVA, C, C51, GNU C, Objective-C, SQL to program applications.
 Proficient in using Active Directory, MatLAB, LabVIEW, VMware, VNC, Deamware, Wireshark, Nmap.
@@ -31,7 +31,7 @@ Proficient in using Microsoft Project, Excel, Word, PowerPoint, Visio, Access.
 Skilled using Fuzzy Logical, PID, Neural Networks methods and mobile robot Mapping, Localization and path planning methods.
 Familiar with ISO27001, ISO27002 Information Security Standards; ISO9000: 2000 quality management standards; ISO14001: 2004 environmental management standards.
  
-Career Experience
+#Career Experience
 
 2009           Help-desk Technician, Aegon-Cnooc Life Insurance Corporation
 AEGON-CNOOC Life Insurance Corporation is national wide firm funded by AEGON Netherlands in China, 2002. The enterprises headquarter located in CBD of Shanghai. I dedicated myself to the IT department as a level 2 helpdesk technician to provide comprehensive IT support and perform daily routine for business continuing process in English working environment at headquarter.
