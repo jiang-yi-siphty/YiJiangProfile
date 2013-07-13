@@ -1,9 +1,16 @@
 # **Robert Yi JIANG**
-Unit 10 
-19-21 Good St.	
+# Robert Yi JIANG
+
+Unit 10
+
+19-21 Good St.
+	
 Parramatta NSW 2150
+
 Mobile: 04 3309 2885
+
 Email: robert.yi.jones@gmail.com
+
 
 # Profile
 I am a highly skilled IT expert and electronic engineer with 1 year Level 2 helpdesk 
