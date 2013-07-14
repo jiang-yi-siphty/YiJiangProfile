@@ -1,4 +1,3 @@
-
 # Robert Yi JIANG
 
 Unit 10  
@@ -8,7 +7,7 @@ Mobile: (+61)4 3309 2885
 Email: robert.yi.jones@gmail.com
 
 
-# Profile
+## Profile
 I am information security background mobile app developer(iOS & Android). I got two master degrees major in robotics and Information Security. I have over 3 years security system industry work experience in native Australian company. I even have more than 2 years work experience in two Fortune 500 companies in China.
  
 ##Key Strengths
