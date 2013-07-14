@@ -1,10 +1,10 @@
 
 # Robert Yi JIANG
 
-Unit 10
-19-21 Good St.
-Parramatta NSW 2150
-Mobile: (+61)4 3309 2885
+Unit 10  
+19-21 Good St.  
+Parramatta NSW 2150  
+Mobile: (+61)4 3309 2885  
 Email: robert.yi.jones@gmail.com
 
 
@@ -76,7 +76,7 @@ Lanzhou University, China
  
 ##Continuing Education
 ###2010 Postgraduate Diploma of Business (Major in E-commerce)
-	 Business Faculty (Sydney campus), University of South Queensland
+Business Faculty (Sydney campus), University of South Queensland
 
 #Projects
 ##Apps & Software
