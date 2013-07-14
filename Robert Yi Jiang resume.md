@@ -30,11 +30,17 @@ Familiar in using Backtrack tools in network penetration testing
 ##Career Experience
 
 ###May 2010 - Current   Mobile App Developer, Digiflex Pty Ltd
+Key Tech: Objective-c, dBase, Delphi, php, LabVIEW
 
-objective-c dbase delphi php labview
-Developing iOS apps for security system; Maintaining PCB tester program based on LabVIEW and National Instruments; Developed firmware programming application platform application by Delphi; Maintaining Inventory Database program code (Clipper Code, dBASE structure )
+Digiflex is a native Australian electronic security company which produces security control panel and modules.
+
+Duties and Responsibilities:
+Developing iOS apps for security system;   
+Maintaining PCB tester program based on LabVIEW and National Instruments;   Developed firmware programming application platform application by Delphi;   Maintaining Inventory Database program code (Clipper Code, dBASE structure )
 
 ###2009 Help-desk Technician, Aegon-Cnooc Life Insurance Corporation
+Key Tech: Active Directory, Windows Server 2003, Microsoft Office
+
 AEGON-CNOOC Life Insurance Corporation is national wide firm funded by AEGON Netherlands in China, 2002. The enterprises headquarter located in CBD of Shanghai. I dedicated myself to the IT department as a level 2 helpdesk technician to provide comprehensive IT support and perform daily routine for business continuing process in English working environment at headquarter.
  
 Duties and Responsibilities:
@@ -47,7 +53,8 @@ Checking remote servers’ performance and intranet status in national wide.
 Writing report in English for C shift after daily routine.
  
 ###2004 - 2006 Project Assistant, China Telecom Corporation Limited
- 
+Key Tech: Windows Server 2003, Microsoft Office
+
 China Telecom Corporation Limited is a full service integrated operator and the world’s largest wire-line telecommunications and broadband services provider and 3rd largest mobile telecommunication provider in China. I worked in the Gansu Subsidiary, Telecommunication Equipment Branch. This branch provides the internal services of equipments group purchasing, distribution, and logistics for other branches of Gansu Province Telecom Subsidiaries.
  
 Duties and Responsibilities:
@@ -58,44 +65,14 @@ Drawing out the bulk purchasing contracts with support-chain venders, such as No
 Making distribution plan of end-user equipment for other branch.
  
 ##Academic Experience
-###2008               Master of ICT (Major in information security)
+###2008  Master of ICT (Major in information security)
 Department of Computing, Macquarie University
  
-###2007               Master of Engineering Study (Major in computer control)
+###2007  Master of Engineering Study (Major in computer control)
 Engineering Faculty, University of Technology, Sydney
  
-###2004               Bachelor of Computing Science (Major in software engineering)
+###2004  Bachelor of Computing Science (Major in software engineering)
 Lanzhou University, China
-
- 
-##Other Work Experiences
-I also have plenty of part time job experiences across many different industries. I possess practical skills of housekeeping, cooking, truck driving (under 4.5 ton), sales and warehouse management. I also have many concepts of IT demands in those industries.
- 
-###2006 – 2008 Carer, Australian Home Care
-Australian Home Care is a not-for-profit organization providing specialized in-home care and assistance to people throughout Victoria and New South Wales
-Duties and Responsibilities:
-Providing domestic cleaning services for three seniors in their own houses
-Providing personal care for one handicapped 
- 
-###2008 Kitchen-hand and Grill Cook, Chantilly's Caffee Lounge
-Chantilly's Caffee Lounge is a cafe which located in Macquarie Shopping Center. It caters western style food.
-Duties and Responsibilities:
-Assisting for cook and chef
-Cleaning kitchen and dining room
-Cooking high quality golden color Grill Cheese Sandwich
- 
-###2008 Chuck Driver and Removalist, Modern Furniture
-Modern Furniture is a furniture shop which located in Hurstville's main road (Forest road). It sells assembly and un-assembly furniture.
-Duties and Responsibilities:
-Drive a 2.4 ton truck to deliver furniture in great Sydney area
-Assemble furniture piece by piece, step by step in client place or store place
-Move Furniture parts or Furniture by hands without lift
- 
-###2008 Driver and Warehouse Keeper, TOSAKI TRADING PTY LTD
-TOSAKI TRADING PTY LTD is an auto spare parts shop which located in 53 Rosedale Ave, Greenacre NSW. It sells radiator and tank of automobile. 
-Duties and Responsibilities:
-Drive car to deliver auto spare parts in great Sydney area
-Warehouse keeping
  
 ##Continuing Education
 ###2010 Postgraduate Diploma of Business (Major in E-commerce)
@@ -103,8 +80,8 @@ Warehouse keeping
 
 #Projects
 ##Apps & Software
-###[MyAlarm SMS Control](https://itunes.apple.com/au/app/myalarm-sms-control/id585238523?mt=8) for iPhone
-Technology Keywords: Objective-C, iOS 
+###[MyAlarm SMS Control](https://itunes.apple.com/au/app/myalarm-sms-control/id585238523?mt=8)  
+Key Tech: Objective-C, iOS 
 Note: App requires compatible alarm system to function and currently only works with iPhone devices. See below for more information.  
 Description: The Myalarm SMS Control App allows you to easily create and save SMS templates which can then be sent your security system to arm or disarm areas, operate outputs, unlock doors or to check system status. This means you will have the ability remotely control your system anywhere you have mobile coverage. Each template can be given a unique and descriptive name simplifying operation, and for further peace of mind, a confirmation SMS message can be sent by your alarm system to your phone if requested. Multiple sites or alarm systems can be setup with their own unique templates allowing you to control your home, office, holiday home or other buildings with the one app.
 Application Designer & Developer
