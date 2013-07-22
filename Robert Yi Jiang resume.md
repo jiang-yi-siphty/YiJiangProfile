@@ -20,7 +20,7 @@ I am information security background mobile app developer(iOS & Android). I got 
 - Curiosity in Emerging Technologies
  
 ##Skills
-Proficient in using Objective-C, Java and PHP in mobile app development.  
+Proficient in using **Objective-C**, Java and **PHP** in mobile app development.  
 Proficient in using Delphi, LabView and SQL in industry software development.
 Proficient in using CA-Clipper and dBase in legacy database system.
 Proficient in principals of information security 
@@ -31,19 +31,19 @@ Familiar in using Backtrack tools in network penetration testing
 ###May 2010 - Current   Mobile App Developer, Digiflex Pty Ltd
 Key Tech: Objective-c, dBase, Delphi, php, LabVIEW
 
-Digiflex is a native Australian electronic security company which produces security control panel and modules.
+Digiflex is a native Australian electronic security company which designs and produces security Solution serial control panels and modules for BOSCH Australia.
 
-Duties and Responsibilities:
-Developing iOS apps for security system;   
-Maintaining PCB tester program based on LabVIEW and National Instruments;   Developed firmware programming application platform application by Delphi;   Maintaining Inventory Database program code (Clipper Code, dBASE structure )
+**Duties and Responsibilities:**
+-Developing iOS apps for security system;   
+-Maintaining PCB tester program on LabVIEW and National Instruments;    -Developed firmware programming application platform application by Delphi;    -Maintaining Inventory Database CA-Clipper code dBASE structure  
 
 ###2009 Help-desk Technician, Aegon-Cnooc Life Insurance Corporation
 Key Tech: Active Directory, Windows Server 2003, Microsoft Office
 
-AEGON-CNOOC Life Insurance Corporation is national wide firm funded by AEGON Netherlands in China, 2002. The enterprises headquarter located in CBD of Shanghai. I dedicated myself to the IT department as a level 2 helpdesk technician to provide comprehensive IT support and perform daily routine for business continuing process in English working environment at headquarter.
+AEGON-CNOOC Life Insurance Corporation is national wide firm funded by AEGON Netherlands and CNOOC () in China. I dedicated myself to the IT department as a level 2 helpdesk technician to provide comprehensive IT support and perform daily routine for business continuing process in English working environment at headquarter.
  
-Duties and Responsibilities:
-Performing C shift (afternoon shift) of level 2 Helpdesk routine from 10AM to 7PM every weekday independently.
+**Duties and Responsibilities:**
+Performing afternoon shift of level 2 Helpdesk.
 Using Active Directory in Windows server 2003 Enterprise Edition environment.
 Providing comprehensive trouble shooting in headquarter, even other branches by remote control and telephone call.   
 Backup financial server database, insurance server database on tapes.
@@ -56,7 +56,7 @@ Key Tech: Windows Server 2003, Microsoft Office
 
 China Telecom Corporation Limited is a full service integrated operator and the world’s largest wire-line telecommunications and broadband services provider and 3rd largest mobile telecommunication provider in China. I worked in the Gansu Subsidiary, Telecommunication Equipment Branch. This branch provides the internal services of equipments group purchasing, distribution, and logistics for other branches of Gansu Province Telecom Subsidiaries.
  
-Duties and Responsibilities:
+**Duties and Responsibilities:**
 Participating in the Every Village Telephone Connection Open Project to administer wireless fixed telephone evaluation and selection.
 Participating in the Personal Hand-phone System (PHS) Infrastructure Construction Project to administer base equipment and handset evaluation and selection.
 Providing basic database maintenance for inventory and sales record via ASP ERP system.
