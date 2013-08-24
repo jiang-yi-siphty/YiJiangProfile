@@ -120,9 +120,9 @@ Description: The Myalarm RAS Engine App is Remote Access Software Engine for MyA
 Roles: Application Designer & only Developer  
 
 ##Open Source Project  
-###[IPConnectionExperiment](https://github.com/robert-yi-jones/IPConnectionExperiment)  
-GitHub, Jul 2013 - Current
-Key Tech: Objective-C
+###[IPConnectionExperiment](https://github.com/robert-yi-jones/IPConnectionExperiment)   
+GitHub, Jul 2013 - Current  
+Key Tech: Objective-C  
 Description: This is an experiment app of sending and receiving TCP or DUP packet with encryption.   
 Roles: Open Source Project Owner
 
