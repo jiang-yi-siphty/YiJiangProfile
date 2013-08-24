@@ -33,7 +33,7 @@ Key Tech: Objective-c, dBase, Delphi, php, LabVIEW
 
 Digiflex is a native Australian electronic security company which designs and produces security Solution serial control panels and modules for BOSCH Australia.
 
-**Duties and Responsibilities:**
+**Duties and Responsibilities:**  
 -Developing iOS apps for security system;   
 -Maintaining PCB tester program on LabVIEW and National Instruments;    -Developed firmware programming application platform application by Delphi;    -Maintaining Inventory Database CA-Clipper code dBASE structure  
 
@@ -42,7 +42,7 @@ Key Tech: Active Directory, Windows Server 2003, Microsoft Office
 
 AEGON-CNOOC Life Insurance Corporation is national wide firm funded by AEGON Netherlands and CNOOC () in China. I dedicated myself to the IT department as a level 2 helpdesk technician to provide comprehensive IT support and perform daily routine for business continuing process in English working environment at headquarter.
  
-**Duties and Responsibilities:**
+**Duties and Responsibilities:**  
 Performing afternoon shift of level 2 Helpdesk.
 Using Active Directory in Windows server 2003 Enterprise Edition environment.
 Providing comprehensive trouble shooting in headquarter, even other branches by remote control and telephone call.   
@@ -56,7 +56,7 @@ Key Tech: Windows Server 2003, Microsoft Office
 
 China Telecom Corporation Limited is a full service integrated operator and the world’s largest wire-line telecommunications and broadband services provider and 3rd largest mobile telecommunication provider in China. I worked in the Gansu Subsidiary, Telecommunication Equipment Branch. This branch provides the internal services of equipments group purchasing, distribution, and logistics for other branches of Gansu Province Telecom Subsidiaries.
  
-**Duties and Responsibilities:**
+**Duties and Responsibilities:**  
 Participating in the Every Village Telephone Connection Open Project to administer wireless fixed telephone evaluation and selection.
 Participating in the Personal Hand-phone System (PHS) Infrastructure Construction Project to administer base equipment and handset evaluation and selection.
 Providing basic database maintenance for inventory and sales record via ASP ERP system.
@@ -80,18 +80,37 @@ Business Faculty (Sydney campus), University of South Queensland
 #Projects
 ##Apps & Software
 ###[MyAlarm SMS Control](https://itunes.apple.com/au/app/myalarm-sms-control/id585238523?mt=8)  
-Key Tech: Objective-C, iOS 
-Note: App requires compatible alarm system to function and currently only works with iPhone devices. See below for more information.  
-Description: The Myalarm SMS Control App allows you to easily create and save SMS templates which can then be sent your security system to arm or disarm areas, operate outputs, unlock doors or to check system status. This means you will have the ability remotely control your system anywhere you have mobile coverage. Each template can be given a unique and descriptive name simplifying operation, and for further peace of mind, a confirmation SMS message can be sent by your alarm system to your phone if requested. Multiple sites or alarm systems can be setup with their own unique templates allowing you to control your home, office, holiday home or other buildings with the one app.
-Application Designer & Developer
+Key Tech: Objective-C, iOS   
+Description: The Myalarm SMS Control App allows you to easily create and save SMS templates which can then be sent your security system to arm or disarm areas, operate outputs, unlock doors or to check system status. This means you will have the ability remotely control your system anywhere you have mobile coverage. Each template can be given a unique and descriptive name simplifying operation, and for further peace of mind, a confirmation SMS message can be sent by your alarm system to your phone if requested. Multiple sites or alarm systems can be setup with their own unique templates allowing you to control your home, office, holiday home or other buildings with the one app.  
+Note: This App requires compatible alarm system to function and currently only works with iPhone devices.  
+Roles: Application Designer & Developer
 
-##Open Source Project
-###[I-am](https://github.com/robert-yi-jones/I-am)
-GitHub, May 2013 - Current
-The message broadcast app to anounce where, when, who, what, how I am.
-What is your role in this project? Are there technologies you’d like to mention? Click the edit link to publish details.
-  
-###[IPConnectionExperiment](https://github.com/robert-yi-jones/IPConnectionExperiment)
+###[MyAlarm SMS Control](HTTPS://PLAY.GOOGLE.COM/STORE/APPS/DEVELOPER?ID=MYALARM+PTY+LTD)  
+Key Tech: Java, Android  
+Description: This app is exactly same with MyAlarm SMS Control iOS app.  
+Note: This App requires compatible alarm system to function. And currently, It 
+only works with Android devices with GSM functionality.  
+Roles: Application Designer & Project Manager  
+
+###MyAlarm SMS Reports (Coming soon, in this September)
+Key Tech: Objective-C, iOS, Java, Android, PHP, SQL, Web Service     
+Description: The Myalarm SMS Reports App allows you to easily receive Push Notification reports instead of get SMS reports. These reports are come from the compatible alarm system. When alarm system triggered by event or alarm, a message will push to user's iOS device. While this app is turned on, it will retrieve all pushed message from remote MyALarm Web Service.  
+Note: For receive push notification and alarm massages, user need send an SMS to MyAlarm SMS Relay Server(Android app) to register mobile phone number. It is an one-button function to register.  
+Roles: Application Designer, API Designer, Web Service Designer & only Developer  
+
+###MyAlarm SMS Reports (Coming soon, in this October)
+Key Tech: Java, Android, PHP, SQL, Web Service      
+Description: The Myalarm SMS Reports App allows you to easily receive Push Notification reports instead of get SMS reports. These reports are come from the compatible alarm system. When alarm system triggered by event or alarm, a message will push to user's iOS device. While this app is turned on, it will retrieve all pushed message from remote MyALarm Web Service.  
+Note: For receive push notification and alarm massages, user need send an SMS to MyAlarm SMS Relay Server to register mobile phone number. It is an one-button function to register.  
+Roles: Application Designer & Project Manager  
+
+###MyAlarm RAS Engine (Under construction, will be finished in this November)
+Key Tech: Objective-C, iOS,   
+Description: The Myalarm RAS Engine App is Remote Access Software Engine for further app . allows you to easily receive Push Notification reports instead of get SMS reports. These reports are come from the compatible alarm system. When alarm system triggered by event or alarm, a message will push to user's iOS device. While this app is turned on, it will retrieve all pushed message from remote MyALarm Web Service.   
+Roles: Application Designer & Developer  
+
+##Open Source Project  
+###[IPConnectionExperiment](https://github.com/robert-yi-jones/IPConnectionExperiment)  
 GitHub, Jul 2013 - Current
 objective-c
 This is an experiment of sending and receiving TCP or DUP packet with encryption
@@ -99,7 +118,7 @@ What is your role in this project? Click the edit link to publish details.
 
  
 ##Academic Projects
-###2008 School Zone Vehicle Warring System (SZVWS) (MQ University)
+###2008 School Zone Vehicle Warring System (SZVWS) (MQ University)  
 This project is developing an on-board warring system for recognizing simple traffic sign on the sides of road, such as School Zone Sign.  I charged the design of dynamic video analysis module, the kernel of SZVWS, independently. I utilized OpenCV algorithm to train system in C++ language environment. 
  
 ###2008 Localization and Mapping System for Mobile Robot (MQ University)
@@ -113,6 +132,9 @@ On the blood loop simulate instrument, we used LabVIEW to research and compare P
  
 ###2004 Real-time Operation System for 8051 MCU (Lanzhou University)
 My graduation project is developing simple real-time operation system for 8051 MCU. I wrote watchdog code to separate time into small time-slots and distributed different priorities to small threads. 
+
+
+Augest 2013 Edition
  
  
  
