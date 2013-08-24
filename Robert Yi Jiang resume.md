@@ -79,42 +79,52 @@ Business Faculty (Sydney campus), University of South Queensland
 
 #Projects
 ##Apps & Software
-###[MyAlarm SMS Control](https://itunes.apple.com/au/app/myalarm-sms-control/id585238523?mt=8)  
+###[MyAlarm SMS Control](https://itunes.apple.com/au/app/myalarm-sms-control/id585238523?mt=8) (Sep 2012 - Nov 2012)  
 Key Tech: Objective-C, iOS   
 Description: The Myalarm SMS Control App allows you to easily create and save SMS templates which can then be sent your security system to arm or disarm areas, operate outputs, unlock doors or to check system status. This means you will have the ability remotely control your system anywhere you have mobile coverage. Each template can be given a unique and descriptive name simplifying operation, and for further peace of mind, a confirmation SMS message can be sent by your alarm system to your phone if requested. Multiple sites or alarm systems can be setup with their own unique templates allowing you to control your home, office, holiday home or other buildings with the one app.  
 Note: This App requires compatible alarm system to function and currently only works with iPhone devices.  
 Roles: Application Designer & Developer
 
-###[MyAlarm SMS Control](HTTPS://PLAY.GOOGLE.COM/STORE/APPS/DEVELOPER?ID=MYALARM+PTY+LTD)  
+###[MyAlarm SMS Control](HTTPS://PLAY.GOOGLE.COM/STORE/APPS/DEVELOPER?ID=MYALARM+PTY+LTD) (Jan 2013 - Jun 2013)  
 Key Tech: Java, Android  
 Description: This app is exactly same with MyAlarm SMS Control iOS app.  
 Note: This App requires compatible alarm system to function. And currently, It 
 only works with Android devices with GSM functionality.  
-Roles: Application Designer & Project Manager  
+Roles: Application Designer & Project Manager    
 
-###MyAlarm SMS Reports (Coming soon, in this September)
-Key Tech: Objective-C, iOS, Java, Android, PHP, SQL, Web Service     
+###MyAlarm SMS Relay Server (Jul 2012)
+Key Tech: Java, Android      
+Description: This is an Android App. It is a SMS registration server. This server will identify register SMS from MyAlarm SMS Reports App. It is MyALarm SMS Reports system's sub-project.  
+Roles: Application Designer & only Developer  
+
+###MyAlarm Web App Server (Jun 2012 - Oct 2012)
+Key Tech: PHP, SQL, REST Web Service      
+Description: This is a RESTful Web Service for mobile apps. It contains advanced functionalities for Push Notification, Database, Registration and Security. It provides plenty APIs for mobile apps and administrator server.  
+Roles:  API Designer, Web Service Designer & only Developer  
+
+###MyAlarm SMS Reports (Oct 2012 - Now, Coming soon, in this September)
+Key Tech: Objective-C, iOS    
 Description: The Myalarm SMS Reports App allows you to easily receive Push Notification reports instead of get SMS reports. These reports are come from the compatible alarm system. When alarm system triggered by event or alarm, a message will push to user's iOS device. While this app is turned on, it will retrieve all pushed message from remote MyALarm Web Service.  
 Note: For receive push notification and alarm massages, user need send an SMS to MyAlarm SMS Relay Server(Android app) to register mobile phone number. It is an one-button function to register.  
-Roles: Application Designer, API Designer, Web Service Designer & only Developer  
+Roles: Application Designer & only Developer  
 
-###MyAlarm SMS Reports (Coming soon, in this October)
-Key Tech: Java, Android, PHP, SQL, Web Service      
-Description: The Myalarm SMS Reports App allows you to easily receive Push Notification reports instead of get SMS reports. These reports are come from the compatible alarm system. When alarm system triggered by event or alarm, a message will push to user's iOS device. While this app is turned on, it will retrieve all pushed message from remote MyALarm Web Service.  
+###MyAlarm SMS Reports (Jul 2013 - Now, Coming soon, in this October)
+Key Tech: Java, Android      
+Description: The Myalarm SMS Reports App allows you to easily receiving Push Notification reports instead of get SMS reports. These reports are come from the compatible alarm system. When alarm system triggered by event or alarm, a message will push to user's iOS device. While this app is turned on, it will retrieve all pushed message from remote MyALarm Web Service.  
 Note: For receive push notification and alarm massages, user need send an SMS to MyAlarm SMS Relay Server to register mobile phone number. It is an one-button function to register.  
 Roles: Application Designer & Project Manager  
 
 ###MyAlarm RAS Engine (Under construction, will be finished in this November)
 Key Tech: Objective-C, iOS,   
-Description: The Myalarm RAS Engine App is Remote Access Software Engine for further app . allows you to easily receive Push Notification reports instead of get SMS reports. These reports are come from the compatible alarm system. When alarm system triggered by event or alarm, a message will push to user's iOS device. While this app is turned on, it will retrieve all pushed message from remote MyALarm Web Service.   
-Roles: Application Designer & Developer  
+Description: The Myalarm RAS Engine App is Remote Access Software Engine for MyAlarm and Bosch control panels and alarm system. It provides SDK and API bundle for Remote Access Software development. It handles Transport Layer, Session Layer and Presentation Layer's functionality. This app is future MyAlarm iOS App's foundation.  
+Roles: Application Designer & only Developer  
 
 ##Open Source Project  
 ###[IPConnectionExperiment](https://github.com/robert-yi-jones/IPConnectionExperiment)  
 GitHub, Jul 2013 - Current
-objective-c
-This is an experiment of sending and receiving TCP or DUP packet with encryption
-What is your role in this project? Click the edit link to publish details.
+Key Tech: Objective-C
+Description: This is an experiment app of sending and receiving TCP or DUP packet with encryption.   
+Roles: Open Source Project Owner
 
  
 ##Academic Projects
