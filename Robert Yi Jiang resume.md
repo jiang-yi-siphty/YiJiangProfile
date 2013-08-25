@@ -78,7 +78,7 @@ Description: The Myalarm SMS Control App allows you to easily create and save SM
 Note: This App requires compatible alarm system to function and currently only works with iPhone devices (Non iPad or iPod Touch).  
 Roles: Application Designer & only Developer
 
-###[MyAlarm SMS Control](HTTPS://PLAY.GOOGLE.COM/STORE/APPS/DEVELOPER?ID=MYALARM+PTY+LTD)    
+###[MyAlarm SMS Control](https://play.google.com/store/apps/details?id=com.myalerm.activities&hl=en)    
 Key Tech: Java, Android  
 Description: This app is exactly same with MyAlarm SMS Control iOS app. It is an Android edition MyAlarm SMS Control app.   
 Note: This App requires compatible alarm system to function. And currently, It 
