@@ -7,7 +7,7 @@ Mobile: (+61)4 3309 2885
 Email: robert.yi.jones@gmail.com
 
 
-## Profile
+##Profile
 I am an information security background mobile app developer(iOS & Android). I have 5 years mobile app develop experience including over 2 years experience in commercial app design and programming. I earned two master's degrees in electronic engineering and ICT respectively. I have over 3 years security system industry working experience in a native Australian company. I even have more than 2 years working experience in two Fortune 500 enterprises in China. 
  
 ##Key Strengths
