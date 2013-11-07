@@ -116,8 +116,12 @@ Roles: Application Designer & only Developer
 ###[IPConnectionExperiment](https://github.com/robert-yi-jones/IPConnectionExperiment)   
 Key Tech: Objective-C  
 Description: This is an experiment app of sending and receiving TCP or DUP packet with encryption.   
-Roles: Open Source Project Owner
-
+Roles: Open Source Project Owner  
+  
+###[Device-Details](https://github.com/robert-yi-jones/Device-Details)   
+Key Tech: Objective-C  
+Description: This project provides quick solution for developers who want to retrieve ios device details, network environment, motion details, location details and compass details.   
+Roles: Open Source Project Owner  
  
 ##Academic Projects
 ###2008 School Zone Vehicle Warring System (SZVWS) (MQ University)  
