@@ -95,28 +95,29 @@ Key Tech: PHP, SQL, REST Web Service
 Description: This is a RESTful Web Service for mobile apps. It contains advanced functionalities for Push Notification, Database, Registration and Security. It provides plenty APIs for mobile apps and administrator server.  
 Roles:  API Designer, Web Service Designer & only Developer  
 
-###[MyAlarm SMS Reports](https://itunes.apple.com/nz/app/myalarm-sms-reports/id717067982?mt=8)  
+###[MyAlarm SMS Reports for iOS](https://itunes.apple.com/nz/app/myalarm-sms-reports/id717067982?mt=8)  
 Key Tech: Objective-C, iOS    
 Description: The Myalarm SMS Reports App allows user to receive Push Notification reports instead of get SMS reports from compatible alarm system. When alarm system triggered by event or alarm, a message will push to and list on user's iOS device. 
 Note: User need approve to send an SMS to MyAlarm SMS Relay Server(Android app) to register mobile phone number. It is an one-button function to register.  
 Roles: Application Designer & only Developer  
 
-###MyAlarm SMS Reports  
+###[MyAlarm SMS Reports for Android](https://play.google.com/store/apps/details?id=com.smsreporting.activities)  
 Key Tech: Java, Android      
 Description: It is Android edition MyAlarm SMS Reports App. It does same functionality as iOS edition. This app allows user to receive notification reports instead of get SMS reports from compatible alarm system. 
 Note: User need approve to send an SMS to MyAlarm SMS Relay Server(Android app) to register mobile phone number. It is an one-button function to register.   
 Roles: Application Designer & Project Manager  
 
-###MyAlarm RAS Engine (Under construction, will be finished in this November)
+###MyAlarm RAS Engine 
 Key Tech: Objective-C, iOS   
-Description: The Myalarm RAS Engine App is Remote Access Software Engine for MyAlarm and Bosch control panels and alarm system. It provides SDK and API bundle for Remote Access Software development. It handles Transport Layer, Session Layer and Presentation Layer's functionality for developer. This app is future MyAlarm iOS App's foundation.  
+Description: The Myalarm RAS Engine App is Remote Access Software Engine for MyAlarm and Bosch control panels and alarm system. It provides framework and API bundle for Remote Access Software development. It handles Transport Layer, Session Layer and Presentation Layer's functionality for developer. This framework is future MyAlarm iOS App's foundation.  
 Roles: Application Designer & only Developer  
 
 ##Open Source Project 
   
-###[Device-Details](https://github.com/robert-yi-jones/Device-Details)   
+###[Device-Details for iOS](https://itunes.apple.com/au/app/device-details-infor.-about/id793582130?mt=8) 
+[GitHub Repository](https://github.com/robert-yi-jones/Device-Details)   
 Key Tech: Objective-C  
-Description: This project provides quick solution for developers who want to retrieve ios device details, network environment, motion details, location details and compass details.   
+Description: It has **[nearly 3000 downloads from App Store](https://www.dropbox.com/s/8am9y7zez1fsp1i/Screenshot%202014-05-21%2000.08.15.png)**. This app provides quick solution for developers who want to retrieve ios device details, network environment, motion details, location details and compass details. It also can notice normal iOS device user how many information can be collected by Apps in App Store.  
 Roles: Open Source Project Owner  
  
 ##Academic Projects
