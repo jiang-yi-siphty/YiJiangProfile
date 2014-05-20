@@ -8,7 +8,7 @@ Email: robert.yi.jones@gmail.com
 
 
 ##Profile
-I am an information security background mobile app developer(iOS & Android). I have 5 years mobile app develop experience including over 2 years experience in commercial app design and programming. I earned two master's degrees in electronic engineering and ICT respectively. I have over 3 years security system industry working experience in a native Australian company. I even have more than 2 years working experience in two Fortune 500 enterprises in China. 
+I am an information security background mobile app developer(iOS & Android). I have 5 years mobile app develop experience including over 3 years experience in commercial app design and programming. I earned two master's degrees in electronic engineering and ICT respectively. I have over 4 years security system industry working experience in a native Australian company. I even have more than 2 years working experience in two Fortune 500 enterprises in China. 
  
 ##Key Strengths
 - Strong Coding Skills  
@@ -112,11 +112,7 @@ Key Tech: Objective-C, iOS
 Description: The Myalarm RAS Engine App is Remote Access Software Engine for MyAlarm and Bosch control panels and alarm system. It provides SDK and API bundle for Remote Access Software development. It handles Transport Layer, Session Layer and Presentation Layer's functionality for developer. This app is future MyAlarm iOS App's foundation.  
 Roles: Application Designer & only Developer  
 
-##Open Source Project  
-###[IPConnectionExperiment](https://github.com/robert-yi-jones/IPConnectionExperiment)   
-Key Tech: Objective-C  
-Description: This is an experiment app of sending and receiving TCP or DUP packet with encryption.   
-Roles: Open Source Project Owner  
+##Open Source Project 
   
 ###[Device-Details](https://github.com/robert-yi-jones/Device-Details)   
 Key Tech: Objective-C  
