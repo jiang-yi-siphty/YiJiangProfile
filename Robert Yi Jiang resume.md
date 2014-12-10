@@ -5,6 +5,8 @@ Unit 10
 Parramatta NSW 2150  
 Mobile: (+61)4 3309 2885  
 Email: robert.yi.jones@gmail.com
+Github Resume: http://goo.gl/WPyl2m  
+LinkedIn Profile: https://lnkd.in/mfygCM  
 
 
 ##Profile
@@ -79,12 +81,14 @@ Business Faculty (Sydney campus), University of South Queensland
 ##Commercial Apps & Softwares
 ###[MyAlarm SMS Control (iOS)](https://itunes.apple.com/au/app/myalarm-sms-control/id585238523?mt=8)    
 Key Tech: Objective-C, iOS   
+URL :  http://goo.gl/6qhRQ9  
 Description: The Myalarm SMS Control App allows you to easily create and save SMS templates which can then be sent your security system to arm or disarm areas, operate outputs, unlock doors or to check system status.  
 Note: This App requires compatible alarm system to function and currently only works with iPhone devices (Non iPad or iPod Touch).  
 Roles: Application Designer & only Developer
 
 ###[MyAlarm SMS Control (Android)](https://play.google.com/store/apps/details?id=com.myalerm.activities&hl=en)    
 Key Tech: Java, Android  
+URL :  http://goo.gl/fhMFbN  
 Description: This app is exactly same with MyAlarm SMS Control iOS app. It is an Android edition MyAlarm SMS Control app.   
 Note: This App requires compatible alarm system to function. And currently, It 
 only works with Android devices with GSM functionality.  
@@ -101,13 +105,15 @@ Description: This is a RESTful Web Service for mobile apps. It contains advanced
 Roles:  API Designer, Web Service Designer & only Developer  
 
 ###[MyAlarm SMS Reports (iOS)](https://itunes.apple.com/nz/app/myalarm-sms-reports/id717067982?mt=8)  
-Key Tech: Objective-C, iOS    
+Key Tech: Objective-C, iOS  
+URL: http://goo.gl/YNp4aV      
 Description: The Myalarm SMS Reports App allows user to receive Push Notification reports instead of get SMS reports from compatible alarm system. When alarm system triggered by event or alarm, a message will push to and list on user's iOS device. 
 Note: User need approve to send an SMS to MyAlarm SMS Relay Server(Android app) to register mobile phone number. It is an one-button function to register.  
 Roles: Application Designer & only Developer  
 
 ###[MyAlarm SMS Reports (Android)](https://play.google.com/store/apps/details?id=com.smsreporting.activities)  
-Key Tech: Java, Android      
+Key Tech: Java, Android  
+URL:  http://goo.gl/msb8ww   
 Description: It is Android edition MyAlarm SMS Reports app. It does same functionality as iOS edition. This app allows user to receive notification reports instead of get SMS reports from compatible alarm system. 
 Note: User need approve to send an SMS to MyAlarm SMS Relay Server(Android app) to register mobile phone number. It is an one-button function to register.   
 Roles: Application Designer & Project Manager  
@@ -122,6 +128,7 @@ Roles: Application Designer & only Developer
 ###[Device-Details for iOS](https://itunes.apple.com/au/app/device-details-infor.-about/id793582130?mt=8) 
 [GitHub Repository](https://github.com/robert-yi-jones/Device-Details)   
 Key Tech: Objective-C  
+URL :   http://goo.gl/tFlnWY    
 Description: It has **[nearly 3000 downloads from App Store](https://www.dropbox.com/s/8am9y7zez1fsp1i/Screenshot%202014-05-21%2000.08.15.png)**. This app provides quick solution for developers who want to retrieve ios device details, network environment, motion details, location details and compass details. It also can notice normal iOS device user how many information can be collected by apps in App Store.  
 Roles: Open Source Project Owner  
  
