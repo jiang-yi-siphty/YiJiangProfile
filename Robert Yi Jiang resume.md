@@ -5,7 +5,7 @@ Unit 10
 Parramatta NSW 2150  
 Mobile: 0433 092 885  
 Email: <robert.yi.jones@gmail.com>  
-Github Resume: &nbsp;[http://goo.gl/WPyl2m](http://goo.gl/WPyl2m)  
+Github Resume: &nbsp;[http://goo.gl/DGJRJu](http://goo.gl/DGJRJu)  
 LinkedIn Profile: &nbsp;[https://lnkd.in/mfygCM](https://lnkd.in/mfygCM)  
 
 
