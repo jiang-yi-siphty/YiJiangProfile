@@ -3,10 +3,10 @@
 Unit 10  
 19-21 Good St.  
 Parramatta NSW 2150  
-Mobile: (+61)4 3309 2885  
-Email: robert.yi.jones@gmail.com  
-Github Resume: &nbsp;http://goo.gl/WPyl2m  
-LinkedIn Profile: &nbsp;https://lnkd.in/mfygCM  
+Mobile: 0433 092 885  
+Email: <robert.yi.jones@gmail.com>  
+Github Resume: &nbsp;[http://goo.gl/WPyl2m](http://goo.gl/WPyl2m)  
+LinkedIn Profile: &nbsp;[https://lnkd.in/mfygCM](https://lnkd.in/mfygCM)  
 
 
 ##Profile
