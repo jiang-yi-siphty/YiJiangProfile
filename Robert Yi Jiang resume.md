@@ -9,7 +9,7 @@ LinkedIn Profile: &nbsp;[https://lnkd.in/mfygCM](https://lnkd.in/mfygCM)
 
 
 ##Profile
-I am an information security background mobile app developer(iOS & Android). I have 6 years mobile app develop experience including over 4 years experience in commercial app design and programming. I earned two master's degrees in electronic engineering and ICT respectively. I have over 5 years security system industry working experience in a native Australian company. I also have working experience in two Fortune 500 enterprises more than 2 years in China. 
+I am an information security background mobile app developer(iOS & Android). I have 7 years mobile app develop experience including over 5 years experience in commercial app developing. I earned two master's degrees in engineering study and ICT respectively. I have over 5 years security system industry working experience in a native Australian company. I also have working experience in two Fortune 500 enterprises more than 2 years in China. 
  
 ##Key Strengths
 - Strong Working Ethic  
@@ -21,32 +21,34 @@ I am an information security background mobile app developer(iOS & Android). I h
 - Positive Attitude   
  
 ##Skills
-Proficient in using **Objective-C**, **Java** and **PHP** in commercial mobile app development.    
-Intermediate in information security major in **iOS app security assessment**.   
+Proficient in using **Objective-C**, **Swift**, **Go** and **PHP** in commercial mobile app development.    
+Proficient in **Git**, **Unix-like OS**, **Vim** and **XCode** working enviornment.  
+Intermediate in information security, major in **iOS app security assessment**.   
 Familiar with using Kali Linux tools in network penetration testing.   
-Intermediate in using Delphi, LabView and SQL in industry software development.      
-Intermediate in using CA-Clipper and dBase in legacy database system.
+*Other ICT skills:*   
+Using C, Delphi and LabView in industrial software development.      
+Using CA-Clipper and dBase in legacy database system.
   
  
 ##Career Experience
 
 ###May 2010 - Current &nbsp;&nbsp;Mobile App Developer, Digiflex Pty Ltd
-Key Tech: Objective-c, Java, php, Git, dBase, Delphi, LabVIEW
+Key Tech: Objective-c, Swift, Java, PHP, Git, dBase, Delphi, LabVIEW
 
 Digiflex is a native Australian electronic security company which provides access control security solution,  designs and produces a serial of control panels and modules for BOSCH Security Australia.
 
 **Duties and Responsibilities:**  
-- Leading iOS app project team;   
-- Auditing iOS app source code;  
-- Assessing iOS app security;  
-- Developing Android apps;    
+- Leading iOS app project team  
+- Assessing iOS app security  
+- Developing Android apps  
+- Developing back end app server   
 ***Other Duties:***  
 - Maintaining PCB tester program on LabVIEW and National Instruments;   
 - Developed firmware programming application platform application by Delphi;  
 - Maintaining Inventory Database CA-Clipper code dBASE structure  
 
 ###2009 &nbsp;&nbsp;Help-desk Technician, Aegon-Cnooc Life Insurance Corporation
-Key Tech: Active Directory, Windows Server 2003, Microsoft Office
+Key Tech: Enterprise resource planning (ERP), Active Directory, Windows Server, SQL Server
 
 AEGON-CNOOC Life Insurance Corporation is one of the Fortune 500 located in China. 
  
@@ -55,12 +57,12 @@ I dedicated myself to the IT department as a level 2 helpdesk technician to prov
 
  
 ###2004 - 2006 &nbsp;&nbsp;Project Assistant, China Telecom Corporation Limited
-Key Tech: Windows Server 2003, Microsoft Office
+Key Tech: Enterprise resource planning (ERP), SQL Server, MS Internet Information Server (IIS), ASP
 
 China Telecom Corporation Limited is a full service integrated operator and the largest wire-line telecommunications and broadband services provider in the world and the largest mobile telecommunication provider in China. 
  
 **Duties and Responsibilities:**  
-I participated in several state level projects of telephone connection and mobile system infrastructure construction as manager assistant. Also I am responsible for ASP ERP system maintenance and drawing out the bulk purchasing contracts.
+I participated in several national projects of telephone connection and mobile system infrastructure construction as manager assistant. I am responsible for ERP system maintenance.
  
 ##Academic Experience
 ###2008&nbsp;  Master of ICT (Major in information security)
@@ -129,27 +131,27 @@ Roles: Framework Designer & Application Developer
 [GitHub Repository](https://github.com/robert-yi-jones/Device-Details)   
 Key Tech: Objective-C  
 URL: &nbsp;http://goo.gl/tFlnWY    
-Description: It has **[over 10K downloads from App Store](https://www.dropbox.com/s/8am9y7zez1fsp1i/Screenshot%202014-05-21%2000.08.15.png)**. This app provides quick solution for developers who want to retrieve ios device details, network environment, motion details, location details and compass details. It also can notice normal iOS device user how many information can be collected by apps in App Store.  
+Description: It has **[over 17.2K downloads from App Store](https://www.dropbox.com/s/8am9y7zez1fsp1i/Screenshot%202014-05-21%2000.08.15.png)**. This app provides quick solution for developers who want to retrieve ios device details, network environment, motion details, location details and compass details. It also can notice normal iOS device user how many information can be collected by apps in App Store.  
 Roles: Open Source Project Owner  
  
 ##Academic Projects
-###2008&nbsp; School Zone Vehicle Warring System (SZVWS) (MQ University)  
+#####2008&nbsp; School Zone Vehicle Warring System (SZVWS) (MQ University)  
 This project is developing an on-board warring system for recognizing simple traffic sign on the sides of road, such as School Zone Sign.  I charged the design of dynamic video analysis module, the kernel of SZVWS, independently. I utilized OpenCV algorithm to train system in C++ language environment. 
  
-###2008&nbsp; Localization and Mapping System for Mobile Robot (MQ University)
+#####2008&nbsp; Localization and Mapping System for Mobile Robot (MQ University)
 Our team utilized Kalman Filter to calculate the location of mobile robot in the foregone map based on previous location and new leaser beam measurement result. 
  
-###2008&nbsp; Chatting terminal with cryptography (MQ University)
+#####2008&nbsp; Chatting terminal with cryptography (MQ University)
 I used Java cryptography API to write security chatting terminal with asymmetric cryptography and public key infrastructure (PKI).
  
-###2007&nbsp; Mock Loop Control Experiment (UTS)
+#####2007&nbsp; Mock Loop Control Experiment (UTS)
 Our team did a research and comparison between PID control method and fuzzy logic control method by utilising LabVIEW code on the blood loop simulator.
  
-###2004&nbsp; Real-time Operation System for 8051 MCU (Lanzhou University)
+#####2004&nbsp; Real-time Operation System for 8051 MCU (Lanzhou University)
 My graduation project is developing a simple real-time operation system for 8051 MCU. I have created a simple OS core to dispatch tasks into small time-slots and distribute different priorities to small threads. 
 
 
-Jul 2015 Edition
+Mar 2016 Edition
  
  
  
