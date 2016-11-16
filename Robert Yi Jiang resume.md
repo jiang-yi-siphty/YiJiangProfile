@@ -1,15 +1,15 @@
 # Robert Yi JIANG
 
-Unit 5  
-43-47 Cross Rd.  
-Baulkham Hills NSW 2153  
+Address:  
+&nbsp;&nbsp;Unit 5 / 43-47 Cross Rd.  
+&nbsp;&nbsp;Baulkham Hills NSW 2153  
 Mobile: 0433 092 885  
-Email: <robert.yi.jones@gmail.com>     
+Email: <robert.yi.jones@gmail.com>  
 LinkedIn Profile: &nbsp;[https://lnkd.in/mfygCM](https://lnkd.in/mfygCM)  
 
 
 ##Profile
-I am an information security background mobile app developer(iOS & Android). I have 7 years mobile app develop experience including over 5 years experience in commercial app developing. I earned two master's degrees in engineering study and ICT respectively. I have over 5 years security system industry working experience in a native Australian company. 
+I am an information security background mobile app developer(iOS & Android). I have 7 years mobile app develop experience including over 5 years experience in commercial app developing. I earned two master's degrees in engineering study and ICT respectively. I have over 6 years security system industry working experience in a native Australian company. 
  
 ##Key Strengths
 - Strong Working Ethic  
@@ -21,10 +21,9 @@ I am an information security background mobile app developer(iOS & Android). I h
 - Positive Attitude   
  
 ##Skills
-Proficient in using **Objective-C**, **Swift**, **Go** and **PHP** in commercial mobile app development.    
-Proficient in **Git**, **Unix-like OS**, **Vim** and **XCode** working enviornment.  
-Intermediate in information security, major in **iOS app security assessment**.   
-Familiar with using Kali Linux tools in network penetration testing.   
+Proficient in using **Objective-C**, **Swift 3**, **Go** and **PHP** in commercial mobile app development.    
+Proficient in **Git**, **Unix-like OS**, **Vim** and **Xcode** working enviornment.  
+Intermediate in information security, major in **mobile app security assessment**.      
 *Other ICT skills:*   
 Using C, Delphi and LabView in industrial software development.      
 Using CA-Clipper and dBase in legacy database system.
@@ -32,8 +31,18 @@ Using CA-Clipper and dBase in legacy database system.
  
 ##Career Experience
 
-###May 2010 - Current &nbsp;&nbsp;Mobile App Developer, Digiflex Pty Ltd
-Key Tech: Objective-c, Swift, Java, PHP, Git, dBase, Delphi, LabVIEW
+###May 2016 - Current &nbsp;&nbsp;Mobile App Developer, MobileDEN Pty Ltd
+Key Tech: Objective-c, Swift 3, Java, Git
+
+MobileDEN is a startup mobile app agent company. It has several well-known fast-food franchise customers, such as Starbucks, Red Rooster and Oporto. It provides back-end services, web apps and mobile apps.
+
+**Duties and Responsibilities:**  
+- Developing iOS apps  
+- Maitaining previous iOS project   
+- Developing Android apps    
+
+###May 2010 - April 2016 &nbsp;&nbsp;Mobile App Developer, Digiflex Pty Ltd
+Key Tech: Objective-c, Swift, Java, Go, PHP, Git, dBase, Delphi, LabVIEW
 
 Digiflex is a native Australian electronic security company which provides access control security solution,  designs and produces a serial of control panels and modules for BOSCH Security Australia.
 
@@ -71,6 +80,24 @@ Business Faculty (Sydney campus), University of South Queensland
 
 #Projects
 ##Commercial Apps & Softwares
+###[Starbucks Australia (iOS)](https://goo.gl/b2Xnti)    
+Key Tech: Objective-C, iOS   
+URL: &nbsp;https://goo.gl/b2Xnti  
+Description: The official iPhone application from Starbucks Australia. It's the fastest way to pay at Starbucks - just scan and go. With this app, the customer can register Starbucks Card, manages card balance and even reloads the card, navigates customer to the closest store, and provides directions from customer's current location.  
+Roles: iOS Developer
+
+###[Oporto Flame Rewards (iOS)](https://goo.gl/T3dbnc)    
+Key Tech: Objective-C, Swift 3, iOS   
+URL: &nbsp;https://goo.gl/T3dbnc  
+Description: The Oporto Flame Rewards is the Oporto Loyalty program offering members better offers and deals. It allows the user to register membership card and collect rewards.  
+Roles: iOS Developer
+
+###[Red Rooster Royalty(iOS)](https://goo.gl/PtBojM)    
+Key Tech: Objective-C, Swift 3, iOS   
+URL: &nbsp;https://goo.gl/PtBojM  
+Description: The Red Royalty app is Red Rooster's official iOS app. It can help the customer to collect rewards, register member card and navigate to closest Red Rooster store.  
+Roles: iOS Developer
+
 ###[MyAlarm SMS Control (iOS)](https://itunes.apple.com/au/app/myalarm-sms-control/id585238523?mt=8)    
 Key Tech: Objective-C, iOS   
 URL: &nbsp;https://goo.gl/lGCZE2  
@@ -115,17 +142,9 @@ Key Tech: Objective-C, iOS, Cryptography
 URL: &nbsp;https://goo.gl/u6WF82   
 Description: The MyAlarm iFob app is remote application for MyAlarm and Bosch alarm system. It provides real time control and feedback of compatible, IP enabled alarm systems. Users can arm and disarm areas, control outputs and doors, view system troubles and alarm system history if required. This app is build on the MyAlarm RAS Engine framework.  
 Roles: Framework Designer & Application Developer  
+ 
 
-##Open Source Project 
-  
-###[Device-Details for iOS](https://itunes.apple.com/au/app/device-details-infor.-about/id793582130?mt=8) 
-[GitHub Repository](https://github.com/robert-yi-jones/Device-Details)   
-Key Tech: Objective-C  
-URL: &nbsp;http://goo.gl/tFlnWY    
-Description: It has **[over 17.2K downloads from App Store](https://www.dropbox.com/s/8am9y7zez1fsp1i/Screenshot%202014-05-21%2000.08.15.png)**. This app provides quick solution for developers who want to retrieve ios device details, network environment, motion details, location details and compass details. It also can notice normal iOS device user how many information can be collected by apps in App Store.  
-Roles: Open Source Project Owner  
-
-Mar 2016 Edition
+Nov 2016 Edition
  
  
  
