@@ -39,7 +39,6 @@ MobileDEN is a startup mobile app agent company. It has several well-known fast-
 **Duties and Responsibilities:**  
 - Developing iOS apps  
 - Maitaining previous iOS project   
-- Developing Android apps    
 
 ###May 2010 - April 2016 &nbsp;&nbsp;Mobile App Developer, Digiflex Pty Ltd
 Key Tech: Objective-c, Swift, Java, Go, PHP, Git, dBase, Delphi, LabVIEW
@@ -144,7 +143,7 @@ Description: The MyAlarm iFob app is remote application for MyAlarm and Bosch al
 Roles: Framework Designer & Application Developer  
  
 
-Nov 2016 Edition
+Dec 2016 Edition
  
  
  
