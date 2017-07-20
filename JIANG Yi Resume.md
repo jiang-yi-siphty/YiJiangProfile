@@ -20,10 +20,10 @@ I am a mobile app and backend server developer. I have 8 years mobile app develo
 - Strong Communication Skills   
  
 ##Skills
-Proficient in using **Swift 3**, **DJI SDK**, **Go**, **Objective-C** and **PHP** in commercial mobile app development.    
+Proficient in using **Swift 3**, **DJI SDK**, **Objective-C**, **Go** and **PHP** in commercial mobile app development.    
 Proficient in **Git**, **Unix-like OS**, **Vim** and **Xcode** working enviornment.  
 Intermediate in information security, major in **mobile app security assessment**.      
-*Other ICT skills:*   
+**Other ICT skills:**   
 Using Java, C, Delphi and LabView in industrial software development.      
 Using CA-Clipper and dBase in a legacy database system.
   
@@ -41,7 +41,7 @@ MobileDEN is a startup mobile app agent company. It has several well-known fast-
 
 **Duties and Responsibilities:**  
 - Developing iOS apps  
-- Maitaining previous iOS project   
+- Maintaining previous iOS project   
 
 ###May 2010 - April 2016 &nbsp;&nbsp;Mobile App Developer, Digiflex Pty Ltd
 **Key Tech:** Objective-c, Swift, Java, Go, PHP, Git, dBase, Delphi, LabVIEW
@@ -90,38 +90,38 @@ Major in E-commerce and project management.
 ##Commercial Apps & Softwares
 ### [ADSB HMD](https://www.siphty.com/ADSB_HMD)
 **Key Tech:** Swift 3, DJI SDK  
-**URL:**  https://www.siphty.com/ADSB_HMD   
+**App Store:**  https://www.siphty.com/ADSB_HMD   
 **Description:** The ADSB HMD is a DJI drone remote controller application with ADS-B collision avoiding system. It provides first person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones.   
 **Roles:** Project Owner and Developer
 
 ### [ADSB Radar](https://www.siphty.com/ADSB_Radar)
 **Key Tech:** Swift 3, ADS-B, Golang  
-**URL:**  https://www.siphty.com/ADSB_Radar   
+**App Store:**  https://goo.gl/WjwxVG    
 **Description:** This app is an ADSB vertical radar with Geographic AR view. It can access an ADSB backend server to update all aircraft around a specific geographic location.   
 **Roles:** Project Owner and Developer
 
 
 ###[Starbucks Australia (iOS)](https://goo.gl/b2Xnti)    
 **Key Tech:** Objective-C, iOS   
-**URL:** &nbsp;https://goo.gl/b2Xnti  
+**App Store:** &nbsp;https://goo.gl/b2Xnti  
 **Description:** The official iOS app of the Starbucks Australia.  
 **Roles:** iOS Developer
 
 ###[Oporto Flame Rewards (iOS)](https://goo.gl/T3dbnc)    
 **Key Tech:** Objective-C, Swift 3, iOS   
-**URL:** &nbsp;https://goo.gl/T3dbnc  
+**App Store:** &nbsp;https://goo.gl/T3dbnc  
 **Description:** The official royalty app of the Oporto.   
 **Roles:** iOS Developer
 
 ###[Red Rooster Royalty(iOS)](https://goo.gl/PtBojM)    
 **Key Tech:** Objective-C, Swift 3, iOS   
-**URL:** &nbsp;https://goo.gl/PtBojM  
+**App Store:** &nbsp;https://goo.gl/PtBojM  
 **Description:** The official royalty app of the Red Royalty.  
 **Roles:** iOS Developer
 
 ###[MyAlarm SMS Control (iOS)](https://itunes.apple.com/au/app/myalarm-sms-control/id585238523?mt=8)    
 **Key Tech:** Objective-C, iOS   
-**URL:** &nbsp;https://goo.gl/lGCZE2  
+**App Store:** &nbsp;https://goo.gl/lGCZE2  
 **Description:** This app allows the user to create and save SMS control templates for security system.    
 **Roles:** App Designer & iOS Developer
 
@@ -132,7 +132,7 @@ Major in E-commerce and project management.
 **Roles:** App Designer & Project Manager     
 
 ###MyAlarm Mobile App Backend Server 
-**Key Tech:** PHP, SQL, RESTful Backend Service      
+**Key Tech:** PHP, Golang, SQL, RESTful      
 **Description:** This is a RESTful backend service for SMS Reports app.   
 **Roles:**  API Designer, Web Service Designer & only Developer  
 
