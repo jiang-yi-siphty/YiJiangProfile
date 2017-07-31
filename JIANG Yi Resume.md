@@ -1,11 +1,12 @@
-# JIANG Yi
+# Yi JIANG 
 
 Address:  
 &nbsp;&nbsp;Unit 5 / 43-47 Cross Rd.  
 &nbsp;&nbsp;Baulkham Hills NSW 2153  
 Mobile: 0433 092 885  
 Email: <jiang.yi.work@gmail.com>  
-LinkedIn Profile: &nbsp;[https://lnkd.in/mfygCM](https://lnkd.in/mfygCM)  
+LinkedIn: &nbsp;[https://www.linkedin.com/in/jiang-yi-siphty](https://www.linkedin.com/in/jiang-yi-siphty)  
+Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)
 
 
 ##Profile
@@ -21,7 +22,7 @@ I am a mobile app and backend server developer. I have 8 years mobile app develo
  
 ##Skills
 Proficient in using **Swift 3**, **DJI SDK**, **Objective-C**, **Go** and **PHP** in commercial mobile app development.    
-Proficient in **Git**, **Unix-like OS**, **Vim** and **Xcode** working enviornment.  
+Proficient in **Git**, **Unix-like OS**, **Vim** and **Xcode** working environment.  
 Intermediate in information security, major in **mobile app security assessment**.      
 **Other ICT skills:**   
 Using Java, C, Delphi and LabView in industrial software development.      
@@ -29,10 +30,15 @@ Using CA-Clipper and dBase in a legacy database system.
   
  
 ##Career Experience
-###Mar 2017 - Now &nbsp;&nbsp;Mobile App Developer, Siphty Pty Ltd
-**Key Tech:** Swift 3, Golang, Git, DJI SDK
+###Mar 2017 - Now &nbsp;&nbsp;Mobile App Developer, Self-employed
+**Key Tech:** Swift 3, Golang, Git, DJI Mobile SDK
 
-Siphty Pty Ltd is a startup company funded by me. The main product of Siphty is ADSB HMD app. It is a drone remote controller app provides low attitude aircraft collision avoiding and No-Fly Zones notice.
+I am self-employed, and concentrated on my personal innovation projects. The main products are ADS-B serial apps. The ADSB HMD is a drone remote controller app provides low attitude aircraft collision avoiding and No-Fly Zones notice. The ADSB Radar is an app with live virtual aircraft radar and Geographic AR view. 
+
+**Duties and Responsibilities:**
+- Design and developing iOS apps
+- Managing and organising App Store account
+- Planning road maps for products strategy
 
 ###May 2016 - Feb 2017 &nbsp;&nbsp;Mobile App Developer, MobileDEN Pty Ltd
 **Key Tech:** Swift 3, Objective-c, Java, Git
@@ -88,15 +94,15 @@ Major in E-commerce and project management.
 
 #Projects
 ##Commercial Apps & Softwares
-### [ADSB HMD](https://www.siphty.com/ADSB_HMD)
+### [ADSB HMD](https://www.siphty.com/adsb-hmd)
 **Key Tech:** Swift 3, DJI SDK  
-**App Store:**  https://www.siphty.com/ADSB_HMD   
+**Web Page:**  [https://www.siphty.com/adsb-hmd](https://www.siphty.com/adsb-hmd)   
 **Description:** The ADSB HMD is a DJI drone remote controller application with ADS-B collision avoiding system. It provides first person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones.   
 **Roles:** Project Owner and Developer
 
-### [ADSB Radar](https://www.siphty.com/ADSB_Radar)
+### [ADSB Radar](https://www.siphty.com/adsb-radar)
 **Key Tech:** Swift 3, ADS-B, Golang  
-**App Store:**  https://goo.gl/WjwxVG    
+**App Store:**  [https://goo.gl/WjwxVG](https://goo.gl/WjwxVG)    
 **Description:** This app is an ADSB vertical radar with Geographic AR view. It can access an ADSB backend server to update all aircraft around a specific geographic location.   
 **Roles:** Project Owner and Developer
 
@@ -138,7 +144,7 @@ Major in E-commerce and project management.
 
 ###[MyAlarm SMS Reports (iOS)](https://itunes.apple.com/nz/app/myalarm-sms-reports/id717067982?mt=8)  
 **Key Tech:** Objective-C, iOS  
-**URL:**&nbsp; https://goo.gl/nxh1pv      
+**App Store:**&nbsp; https://goo.gl/nxh1pv      
 **Description:** This app allows the user to receive Push Notification from the compatible alarm system.   
 **Roles:** System Designer, App Developer and Backend Server Developer
 
@@ -150,7 +156,7 @@ Major in E-commerce and project management.
 
 ###[MyAlarm iFob Control (iOS)](https://itunes.apple.com/au/app/myalarm-ifob-control/id933114235?mt=8)  
 **Key Tech:** Objective-C, iOS, Cryptography   
-**URL:** &nbsp;https://goo.gl/u6WF82   
+**App Store:** &nbsp;https://goo.gl/u6WF82   
 **Description:** This app is a remote application for MyAlarm and Bosch alarm system.  
 **Roles:** Framework Designer & Application Developer  
  
