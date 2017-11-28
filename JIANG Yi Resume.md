@@ -1,4 +1,4 @@
-# Yi JIANG 
+# JIANG Yi  
 
 Address:  
 &nbsp;&nbsp;Unit 5 / 43-47 Cross Rd.  
@@ -14,33 +14,45 @@ I am a mobile app and backend server developer. I have 8 years mobile app develo
  
 ##Key Strengths
 - Full stack developing experience
-- Cross platform coding skills  
+- Cross platform coding skills (Linux, Android, iOS, Windows)
 - Curiosity in emerging technologies  
 - Learning Agility  
 - Strong Working Ethic  
 - Strong Communication Skills   
  
 ##Skills
-Proficient in using **Swift 3**, **DJI SDK**, **Objective-C**, **Go** and **PHP** in commercial mobile app development.    
-Proficient in **Git**, **Unix-like OS**, **Vim** and **Xcode** working environment.  
-Intermediate in information security, major in **mobile app security assessment**.      
+- Proficient in using **Swift 3**, **DJI SDK**, **Objective-C**, **Go** and **PHP** in commercial mobile app with **RESTful** backend service development.   
+- Proficient in using  **Xcode Instruments** to tunning time performance and memory leaking.
+- Proficient in **Git**, **Unix-like OS**, **Vim** and **Xcode** working environment.  
+- Proficient in morden design parttens like: **MVVM**, **MVP**  
+- Intermediate in information security, major in **mobile app security assessment**.      
 **Other ICT skills:**   
-Using Java, C, Delphi and LabView in industrial software development.      
-Using CA-Clipper and dBase in a legacy database system.
+- Using **Java**, **C**, C++, Delphi and LabView in industrial software development.      
+- Using CA-Clipper and dBase in a legacy (**30+ years old**) database system.
   
  
 ##Career Experience
-###Mar 2017 - Now &nbsp;&nbsp;Mobile App Developer, Self-employed
+###Aug 2017 - Now &nbsp;&nbsp;iOS Team Leader, Thred, Sydney
+**Key Tech:** Swift 3, Git
+
+[Thred](https://www.thred.im/) is an ASX listed startup company. It is an innovative technology company specialising in augmented reality and location-based technologies. It created an instant messaging app Sweep, with AR and geolocation feature. 
+
+**Duties and Responsibilities:**
+- Develop new features for Sweep
+- Managing the iOS develop team
+- Managing and organising app release in App Store
+
+###Mar 2017 - Now &nbsp;&nbsp;Mobile App Developer, Self-employed, Sydney
 **Key Tech:** Swift 3, Golang, Git, DJI Mobile SDK
 
-I am self-employed, and concentrated on my personal innovation projects. The main products are ADS-B serial apps. The ADSB HMD is a drone remote controller app provides low attitude aircraft collision avoiding and No-Fly Zones notice. The ADSB Radar is an app with live virtual aircraft radar and Geographic AR view. 
+Siphty is an company fund by myself. It hosts my personal innovation projects. The main products are ADS-B serial apps. The ADSB HMD is a drone remote controller app provides low attitude aircraft collision avoiding and No-Fly Zones notice. The ADSB Radar is an app with live virtual aircraft radar and Geographic AR view. 
 
 **Duties and Responsibilities:**
 - Design and developing iOS apps
 - Managing and organising App Store account
 - Planning road maps for products strategy
 
-###May 2016 - Feb 2017 &nbsp;&nbsp;Mobile App Developer, MobileDEN Pty Ltd
+###May 2016 - Feb 2017 &nbsp;&nbsp;Mobile App Developer, MobileDEN Pty Ltd, Sydney
 **Key Tech:** Swift 3, Objective-c, Java, Git
 
 MobileDEN is a startup mobile app agent company. It has several well-known fast-food franchise customers, such as Starbucks, Red Rooster and Oporto. 
@@ -49,7 +61,7 @@ MobileDEN is a startup mobile app agent company. It has several well-known fast-
 - Developing iOS apps  
 - Maintaining previous iOS project   
 
-###May 2010 - April 2016 &nbsp;&nbsp;Mobile App Developer, Digiflex Pty Ltd
+###May 2010 - April 2016 &nbsp;&nbsp;Mobile App Developer, Digiflex Pty Ltd, Sydney
 **Key Tech:** Objective-c, Swift, Java, Go, PHP, Git, dBase, Delphi, LabVIEW
 
 Digiflex is a native Australian electronic security company which provides access control security solution, designs and produces a serial of control panels and modules for BOSCH Security Australia.
@@ -64,7 +76,7 @@ Digiflex is a native Australian electronic security company which provides acces
 - Developed firmware programming application platform application by Delphi;  
 - Maintaining Inventory Database CA-Clipper code dBASE structure  
 
-###2009 &nbsp;&nbsp;Help-desk Technician, Aegon-Cnooc Life Insurance Corporation
+###2009 &nbsp;&nbsp;Help-desk Technician, Aegon-Cnooc Life Insurance Corporation, Shanghai
 **Key Tech:** Enterprise resource planning (ERP), Active Directory, Windows Server, SQL Server
 
 AEGON-CNOOC Life Insurance Corporation is funded by two Fortune 500 enterprises, AEGON and CNOOC. 
@@ -94,10 +106,17 @@ Major in E-commerce and project management.
 
 #Projects
 ##Commercial Apps & Softwares
+### [Sweep](https://goo.gl/Wi4mSq)
+**Key Tech:** Swift 3, DJI SDK  
+**Web Page:**  [https://www.siphty.com/adsb-hmd](https://www.siphty.com/adsb-hmd)   
+**Description:** Sweep is a free app that allows users to engage with the world around them in a completely new way.Whether the user is sitting at a bar, in a university lecture hall or waiting for a train, Sweep’s unique Geochat features allow users to unlock exclusive chats based on their location.  
+**Roles:** iOS Team Leader, Senior iOS Developer
+
+
 ### [ADSB HMD](https://www.siphty.com/adsb-hmd)
 **Key Tech:** Swift 3, DJI SDK  
 **Web Page:**  [https://www.siphty.com/adsb-hmd](https://www.siphty.com/adsb-hmd)   
-**Description:** The ADSB HMD is a DJI drone remote controller application with ADS-B collision avoiding system. It provides first person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones.   
+**Description:** ADSB HMD is a DJI drone remote controller application with ADS-B collision avoiding system. It provides first person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones.   
 **Roles:** Project Owner and Developer
 
 ### [ADSB Radar](https://www.siphty.com/adsb-radar)
@@ -161,7 +180,7 @@ Major in E-commerce and project management.
 **Roles:** Framework Designer & Application Developer  
  
 
-Jul 2017 Edition
+Aug 2017 Edition
  
  
  
