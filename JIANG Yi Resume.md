@@ -33,7 +33,7 @@ I am a mobile app and backend server developer. I have 8 years mobile app develo
  
 ##Career Experience
 ###Aug 2017 - Now &nbsp;&nbsp;iOS Team Leader, Thred, Sydney
-**Key Tech:** Swift 3, Git
+**Key Tech:** Swift 4, ARKit, SceneKit, Git
 
 [Thred](https://www.thred.im/) is an ASX listed startup company. It is an innovative technology company specialising in augmented reality and location-based technologies. It created an instant messaging app Sweep, with AR and geolocation feature. 
 
@@ -42,7 +42,7 @@ I am a mobile app and backend server developer. I have 8 years mobile app develo
 - Managing the iOS develop team
 - Managing and organising app release in App Store
 
-###Mar 2017 - Now &nbsp;&nbsp;Mobile App Developer, Self-employed, Sydney
+###Mar 2017 - Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd, Sydney
 **Key Tech:** Swift 3, Golang, Git, DJI Mobile SDK
 
 Siphty is an company fund by myself. It hosts my personal innovation projects. The main products are ADS-B serial apps. The ADSB HMD is a drone remote controller app provides low attitude aircraft collision avoiding and No-Fly Zones notice. The ADSB Radar is an app with live virtual aircraft radar and Geographic AR view. 
@@ -107,8 +107,8 @@ Major in E-commerce and project management.
 #Projects
 ##Commercial Apps & Softwares
 ### [Sweep](https://goo.gl/Wi4mSq)
-**Key Tech:** Swift 3, DJI SDK  
-**Web Page:**  [https://www.siphty.com/adsb-hmd](https://www.siphty.com/adsb-hmd)   
+**Key Tech:** Swift 4, Vuforia, SceneKit  
+**Web Page:**  [https://itunes.apple.com/au/app/sweep-chat-and-connect/id1183636799](https://itunes.apple.com/au/app/sweep-chat-and-connect/id1183636799?mt=8)   
 **Description:** Sweep is a free app that allows users to engage with the world around them in a completely new way.Whether the user is sitting at a bar, in a university lecture hall or waiting for a train, Sweep’s unique Geochat features allow users to unlock exclusive chats based on their location.  
 **Roles:** iOS Team Leader, Senior iOS Developer
 
