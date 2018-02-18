@@ -4,31 +4,34 @@ Address:
 &nbsp;&nbsp;Unit 5 / 43-47 Cross Rd.  
 &nbsp;&nbsp;Baulkham Hills NSW 2153  
 Mobile: 0433 092 885  
-Email: <jiang.yi.work@gmail.com>  
+Email: <jiang.yi@siphty.com>  
 LinkedIn: &nbsp;[https://www.linkedin.com/in/jiang-yi-siphty](https://www.linkedin.com/in/jiang-yi-siphty)  
 Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)
 
 
 ##Profile
-I am a mobile app and backend server developer. I have 8 years mobile app development experience including over 6 years experience in commercial application developing. I earned two master's degrees in engineering study and ICT respectively. I have over 6 years security system industry working experience in a native Australian company. 
+I am a senior iOS app developer. I have 8 years iOS app development experience including over 6 years experience in commercial application developing. I earned two master's degrees in engineering study and ICT respectively. I have over 6 years security system industry working experience in a native Australian company. 
  
 ##Key Strengths
+- Strong iOS Swift coding experience
 - Full stack developing experience
-- Cross platform coding skills (Linux, Android, iOS, Windows)
+- Cross platform coding skills (iOS, Linux, Android, Windows)
 - Curiosity in emerging technologies  
 - Learning Agility  
 - Strong Working Ethic  
 - Strong Communication Skills   
  
 ##Skills
-- Proficient in using **Swift 3**, **DJI SDK**, **Objective-C**, **Go** and **PHP** in commercial mobile app with **RESTful** backend service development.   
-- Proficient in using  **Xcode Instruments** to tunning time performance and memory leaking.
-- Proficient in **Git**, **Unix-like OS**, **Vim** and **Xcode** working environment.  
-- Proficient in morden design parttens like: **MVVM**, **MVP**  
-- Intermediate in information security, major in **mobile app security assessment**.      
-**Other ICT skills:**   
-- Using **Java**, **C**, C++, Delphi and LabView in industrial software development.      
-- Using CA-Clipper and dBase in a legacy (**30+ years old**) database system.
+- Proficient in using **Swift**, **Objective-C** to develop commercial mobile apps.
+- Proficient in **MVVM** design pattern with **RxSwift**. 
+- Proficient in **DJI SDK**, **Alamofire**, **Facebook SDK**, **Google Serial SDKs**, **Ably SDK**
+- Proficient in **Git**, **TDD** in **Vim** and **Xcode** working environment.   
+- Intermediate in information security, major in **mobile app security assessment**.  
+- Proficient in using  **Xcode Instruments** to tunning time performance and memory leaking   development     
+**Other ICT skills:**  
+- Proficient in **Go** and **PHP** in commercial mobile app with **RESTful** backend service  
+- Using **Java**, **C**, **Delphi** and **LabView** in industrial software development.      
+- Using CA-Clipper and dBase in a legacy (**30+ years old langurage**) database system.
   
  
 ##Career Experience
@@ -42,10 +45,10 @@ I am a mobile app and backend server developer. I have 8 years mobile app develo
 - Managing the iOS develop team
 - Managing and organising app release in App Store
 
-###Mar 2017 - Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd, Sydney
+###Feb 2017 - Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd, Sydney
 **Key Tech:** Swift 3, Golang, Git, DJI Mobile SDK
 
-Siphty is an company fund by myself. It hosts my personal innovation projects. The main products are ADS-B serial apps. The ADSB HMD is a drone remote controller app provides low attitude aircraft collision avoiding and No-Fly Zones notice. The ADSB Radar is an app with live virtual aircraft radar and Geographic AR view. 
+Siphty is a startup company fund by me with my friends. It hosts our innovation projects. The main products are ADS-B serial apps and computer graphic/computer vision projects. The HMD+ is a drone remote controller app provides low attitude aircraft collision avoiding and No-Fly Zones notice. The ADSB Radar is an app with live virtual aircraft radar and Geographic AR view. 
 
 **Duties and Responsibilities:**
 - Design and developing iOS apps
@@ -107,20 +110,20 @@ Major in E-commerce and project management.
 #Projects
 ##Commercial Apps & Softwares
 ### [Sweep](https://goo.gl/Wi4mSq)
-**Key Tech:** Swift 4, Vuforia, SceneKit  
+**Key Tech:** Swift, Vuforia, SceneKit  
 **Web Page:**  [https://itunes.apple.com/au/app/sweep-chat-and-connect/id1183636799](https://itunes.apple.com/au/app/sweep-chat-and-connect/id1183636799?mt=8)   
 **Description:** Sweep is a free app that allows users to engage with the world around them in a completely new way.Whether the user is sitting at a bar, in a university lecture hall or waiting for a train, Sweep’s unique Geochat features allow users to unlock exclusive chats based on their location.  
 **Roles:** iOS Team Leader, Senior iOS Developer
 
 
-### [ADSB HMD](https://www.siphty.com/adsb-hmd)
-**Key Tech:** Swift 3, DJI SDK  
+### [HMD+](https://goo.gl/2e2uUq)
+**Key Tech:** Swift, DJI SDK  
 **Web Page:**  [https://www.siphty.com/adsb-hmd](https://www.siphty.com/adsb-hmd)   
-**Description:** ADSB HMD is a DJI drone remote controller application with ADS-B collision avoiding system. It provides first person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones.   
+**Description:** HMD+ is a DJI drone remote controller application with ADS-B collision avoiding system. It provides first person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones.   
 **Roles:** Project Owner and Developer
 
 ### [ADSB Radar](https://www.siphty.com/adsb-radar)
-**Key Tech:** Swift 3, ADS-B, Golang  
+**Key Tech:** Swift, ADS-B, Golang  
 **App Store:**  [https://goo.gl/WjwxVG](https://goo.gl/WjwxVG)    
 **Description:** This app is an ADSB vertical radar with Geographic AR view. It can access an ADSB backend server to update all aircraft around a specific geographic location.   
 **Roles:** Project Owner and Developer
@@ -180,7 +183,7 @@ Major in E-commerce and project management.
 **Roles:** Framework Designer & Application Developer  
  
 
-Aug 2017 Edition
+Feb 2018 Edition
  
  
  
