@@ -5,12 +5,13 @@ Address:
 &nbsp;&nbsp;Baulkham Hills NSW 2153  
 Mobile: 0433 092 885  
 Email: <jiang.yi@siphty.com>  
-LinkedIn: &nbsp;[https://www.linkedin.com/in/jiang-yi-siphty](https://www.linkedin.com/in/jiang-yi-siphty)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<jiang.yi.work@gmail.com>  
+LinkedIn: &nbsp;[https://www.linkedin.com/in/jiang-yi-siphty](https://www.linkedin.com/in/jiang-yi-siphty)    
 Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)
 
 
 ##Profile
-I am a senior iOS app developer. I have 8 years iOS app development experience including over 6 years experience in commercial application developing. I earned two master's degrees in engineering study and ICT respectively. I have over 6 years security system industry working experience in a native Australian company. 
+I am a senior iOS app developer. I have 8 years iOS app development experience including over 6 years commercial application developing experience. I earned two master's degrees in engineering study and ICT respectively. I have over 6 years security system industry working experience and two years start-up company working exerience. Now, I am working in Optus as senior iOS developer.
  
 ##Key Strengths
 - Strong iOS Swift coding experience
@@ -35,15 +36,26 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
   
  
 ##Career Experience
-###Aug 2017 - Now &nbsp;&nbsp;iOS Team Leader, Thred, Sydney
+###Apr 2018 - Now &nbsp;&nbsp;Senior iOS Developer, Optus, Sydney
+**Key Tech:** Swift 4, Git
+
+[Optus](http://www.optus.com.au/) is the second largest telecommunications company in Australia.   
+
+**Duties and Responsibilities:**  
+ 
+- Develop new features for MyOptus  
+- Maintain business as usual(BAU) tasks  
+
+###Aug 2017 - Mar 2018 &nbsp;&nbsp;iOS Team Leader, Thred, Sydney
 **Key Tech:** Swift 4, ARKit, SceneKit, Git
 
-[Thred](https://www.thred.im/) is an ASX listed startup company. It is an innovative technology company specialising in augmented reality and location-based technologies. It created an instant messaging app Sweep, with AR and geolocation feature. 
+[Thred](https://www.thred.im/) is an ASX listed startup company. It is an innovative technology company specialising in augmented reality and location-based technologies. It created an instant messaging app Sweep, with AR and geolocation feature.   
 
-**Duties and Responsibilities:**
-- Develop new features for Sweep
-- Managing the iOS develop team
-- Managing and organising app release in App Store
+**Duties and Responsibilities:**  
+
+- Develop new features for Sweep  
+- Managing the iOS develop team  
+- Managing and organising app release in App Store  
 
 ###Feb 2017 - Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd, Sydney
 **Key Tech:** Swift 3, Golang, Git, DJI Mobile SDK
@@ -51,16 +63,18 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
 Siphty is a startup company fund by me with my friends. It hosts our innovation projects. The main products are ADS-B serial apps and computer graphic/computer vision projects. The HMD+ is a drone remote controller app provides low attitude aircraft collision avoiding and No-Fly Zones notice. The ADSB Radar is an app with live virtual aircraft radar and Geographic AR view. 
 
 **Duties and Responsibilities:**
+
 - Design and developing iOS apps
 - Managing and organising App Store account
 - Planning road maps for products strategy
 
 ###May 2016 - Feb 2017 &nbsp;&nbsp;Mobile App Developer, MobileDEN Pty Ltd, Sydney
-**Key Tech:** Swift 3, Objective-c, Java, Git
+**Key Tech:** Swift 3, Objective-C, Java, Git
 
 MobileDEN is a startup mobile app agent company. It has several well-known fast-food franchise customers, such as Starbucks, Red Rooster and Oporto. 
 
 **Duties and Responsibilities:**  
+
 - Developing iOS apps  
 - Maintaining previous iOS project   
 
@@ -69,12 +83,16 @@ MobileDEN is a startup mobile app agent company. It has several well-known fast-
 
 Digiflex is a native Australian electronic security company which provides access control security solution, designs and produces a serial of control panels and modules for BOSCH Security Australia.
 
-**Duties and Responsibilities:**  
+**Duties and Responsibilities:** 
+ 
 - Leading iOS app project team  
 - Assessing iOS app security  
 - Developing Android apps  
-- Developing back end app server   
+- Developing back end app server  
+
+ 
 ***Other Duties:***  
+
 - Maintaining PCB tester program on LabVIEW and National Instruments;   
 - Developed firmware programming application platform application by Delphi;  
 - Maintaining Inventory Database CA-Clipper code dBASE structure  
@@ -85,7 +103,9 @@ Digiflex is a native Australian electronic security company which provides acces
 AEGON-CNOOC Life Insurance Corporation is funded by two Fortune 500 enterprises, AEGON and CNOOC. 
  
 **Duties and Responsibilities:**   
-I dedicated myself to the IT department as a level 2 helpdesk technician to provide comprehensive IT support and perform a daily routine for business continuing process in English working environment at headquarter.
+
+- Provide level 2 helpdesk service daily 
+- Process routine for business continuing process in English working environment at headquarter.
  
 ##Academic Experience
 **2008&nbsp;  Master of ICT**  
@@ -109,11 +129,17 @@ Major in E-commerce and project management.
 
 #Projects
 ##Commercial Apps & Softwares
+### [MyOptus](https://itunes.apple.com/au/app/my-optus/id503716230)
+**Key Tech:** Swift, Objective-C  
+**Web Page:**  [https://itunes.apple.com/au/app/my-optus/id503716230](https://itunes.apple.com/au/app/my-optus/id503716230)   
+**Description:** MyOptus is the best place to manage everything from billing to data usage for Optus mobile account and Optus broadband account.   
+**Roles:** Senior iOS Developer
+
 ### [Sweep](https://goo.gl/Wi4mSq)
 **Key Tech:** Swift, Vuforia, SceneKit  
 **Web Page:**  [https://itunes.apple.com/au/app/sweep-chat-and-connect/id1183636799](https://itunes.apple.com/au/app/sweep-chat-and-connect/id1183636799?mt=8)   
 **Description:** Sweep is a free app that allows users to engage with the world around them in a completely new way.Whether the user is sitting at a bar, in a university lecture hall or waiting for a train, Sweep’s unique Geochat features allow users to unlock exclusive chats based on their location.  
-**Roles:** iOS Team Leader, Senior iOS Developer
+**Roles:** iOS Team Lead, Senior iOS Developer
 
 
 ### [HMD+](https://goo.gl/2e2uUq)
