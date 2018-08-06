@@ -37,14 +37,19 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
  
 ##Career Experience
 ###Apr 2018 - Now &nbsp;&nbsp;Senior iOS Developer, Optus, Sydney
-**Key Tech:** Swift 4, Git
+**Key Tech:** iOS, Swift 4, Git, CI/CD
 
 [Optus](http://www.optus.com.au/) is the second largest telecommunications company in Australia.   
 
 **Duties and Responsibilities:**  
  
-- Develop new features for MyOptus  
+- Develop new features for MyOptus App (MOA) 
 - Maintain business as usual(BAU) tasks  
+- Working with our squard members in the tribe to take ownership of project
+- Review other iOS developers' Pull Request
+- Setup and maintain CI/CD server for tribe
+
+
 
 ###Aug 2017 - Mar 2018 &nbsp;&nbsp;iOS Team Leader, Thred, Sydney
 **Key Tech:** Swift 4, ARKit, SceneKit, Git
@@ -209,7 +214,7 @@ Major in E-commerce and project management.
 **Roles:** Framework Designer & Application Developer  
  
 
-Feb 2018 Edition
+Aug 2018 Edition
  
  
  
