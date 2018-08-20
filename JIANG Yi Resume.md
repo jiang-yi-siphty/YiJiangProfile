@@ -10,12 +10,12 @@ Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)
 
 
 ##Profile
-I am a senior iOS app developer. I have 8 years iOS app development experience including over 6 years commercial application developing experience. I earned two master's degrees in engineering study and ICT respectively. I have over 6 years security system industry working experience and two years start-up company working exerience. Now, I am working in Optus as senior iOS developer.
+I am a senior iOS app developer. I have 8 years iOS app development experience including over 6 years commercial application developing experience. I earned two master's degrees in engineering study and ICT respectively. I have over 6 years security system industry working experience and two years start-up company working exerience. Now, I am working in Optus as a senior iOS developer.
  
 ##Key Strengths
-- Strong iOS Swift coding experience
-- Full stack developing experience
-- Cross platform coding skills (iOS, Linux, Android, Windows)
+- Strong iOS Swift coding skill
+- Strong Git operating skill
+- Have agile tribe working experience
 - Curiosity in emerging technologies  
 - Learning Agility  
 - Strong Working Ethic  
