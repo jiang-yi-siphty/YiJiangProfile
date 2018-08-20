@@ -1,11 +1,10 @@
 # JIANG Yi  
 
 Address:  
-&nbsp;&nbsp;Unit 5 / 43-47 Cross Rd.  
-&nbsp;&nbsp;Baulkham Hills NSW 2153  
+&nbsp;&nbsp;&nbsp;&nbsp;Unit 5 / 43-47 Cross Rd.  
+&nbsp;&nbsp;&nbsp;&nbsp;Baulkham Hills, NSW, 2153 Australia   
 Mobile: 0433 092 885  
-Email: <jiang.yi@siphty.com>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<jiang.yi.work@gmail.com>  
+Email: <jiang.yi.work@gmail.com>  
 LinkedIn: &nbsp;[https://www.linkedin.com/in/jiang-yi-siphty](https://www.linkedin.com/in/jiang-yi-siphty)    
 Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)
 
@@ -31,20 +30,20 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
 - Proficient in using  **Xcode Instruments** to tunning time performance and memory leaking   development     
 **Other ICT skills:**  
 - Proficient in **Go** and **PHP** in commercial mobile app with **RESTful** backend service  
-- Using **Java**, **C**, **Delphi** and **LabView** in industrial software development.      
-- Using CA-Clipper and dBase in a legacy (**30+ years old langurage**) database system.
+- Used **Java**, **C**, **Delphi** and **LabView** in industrial software development.      
+- Used CA-Clipper and dBase in a legacy (**30+ years old langurage**) database system.
   
  
 ##Career Experience
 ###Apr 2018 - Now &nbsp;&nbsp;Senior iOS Developer, Optus, Sydney
 **Key Tech:** iOS, Swift 4, Git, CI/CD
 
-[Optus](http://www.optus.com.au/) is the second largest telecommunications company in Australia.   
+[Optus](http://www.optus.com.au/) is the second largest telecommunications company in Australia. I am working in the new funded tribe of Digital Hub for MyOptus mobile app project. The MyOptus app is the primary app for Optus customer to checking account balance, data usage and even more comprehensive features.
 
 **Duties and Responsibilities:**  
  
 - Develop new features for MyOptus App (MOA) 
-- Maintain business as usual(BAU) tasks  
+- Maintain business as usual (BAU) tasks  
 - Working with our squard members in the tribe to take ownership of project
 - Review other iOS developers' Pull Request
 - Setup and maintain CI/CD server for tribe
