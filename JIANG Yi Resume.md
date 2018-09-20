@@ -24,11 +24,13 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
  
 ##Skills
 - Proficient in using **Swift**, **Objective-C** to develop commercial mobile apps.
-- Proficient in **MVVM** design pattern with **RxSwift**. 
+- Proficient in **MVVM** design pattern with or without **RxSwift**. 
+- Trained by McKenzie to running an **Agile Squad** in **Tribe**.
+- Proficient in **Accessibility**, **PushNotification**, **CoreLocation**, **MapKit**, **iBeacons**, **ARKit**, **SceneKit**. 
 - Proficient in **DJI SDK**, **Alamofire**, **Facebook SDK**, **Google Serial SDKs**, **Ably SDK**
 - Proficient in **Git**, **TDD** in **Vim** and **Xcode** working environment.   
 - Intermediate in information security, major in **mobile app security assessment**.  
-- Proficient in using  **Xcode Instruments** to tunning time performance and memory leaking   development     
+- Proficient in using  **Xcode Instruments** to tunning time performance and memory leaking   development
 **Other ICT skills:**  
 - Proficient in **Go** and **PHP** in commercial mobile app with **RESTful** backend service  
 - Using **Java**, **C**, **Delphi** and **LabView** in industrial software development.      
@@ -44,6 +46,7 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
 **Duties and Responsibilities:**  
  
 - Develop new features for MyOptus App (MOA) 
+- Develop and update accessibility feature. 
 - Maintain business as usual(BAU) tasks  
 - Working with our squard members in the tribe to take ownership of project
 - Review other iOS developers' Pull Request
@@ -214,7 +217,7 @@ Major in E-commerce and project management.
 **Roles:** Framework Designer & Application Developer  
  
 
-Aug 2018 Edition
+Sep 2018 Edition
  
  
  
