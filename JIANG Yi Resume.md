@@ -45,11 +45,19 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
 **Duties and Responsibilities:**  
  
 - Develop new features for MyOptus App (MOA) 
+- Maintain business as usual (BAU) tasks  
+- Working with our squad members in the tribe to take ownership of project
 - Develop and update accessibility feature
-- Maintain business as usual(BAU) tasks  
-- Working with our squard members in the tribe to take ownership of project
 - Review other iOS developers' Pull Request
 - Setup and maintain CI/CD server for tribe
+
+**Achievements**
+
+- Improve code quality to high level
+- Help squad to achieve KPI target
+- Make automation development on CI/CD
+- Make unit test coverage reach 80%
+- Implement better user experience design
 
 
 
@@ -64,7 +72,15 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
 
 - Develop new features for Sweep  
 - Managing the iOS develop team  
-- Managing and organising app release in App Store  
+- Managing and organising app release in App Store   
+
+**Achievements**
+
+- Publish Sweep app on AppStore
+- Achieve every campaign target 
+- Make automation development on CI/CD
+- Refactored architecture of Sweep
+- Keep Git workflow clean and organized
 
 ###Feb 2017 - Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd, Sydney
 **Key Tech:** Swift 3, Golang, Git, DJI Mobile SDK
@@ -77,6 +93,14 @@ Siphty is a startup company fund by me with my friends. It hosts our innovation 
 - Managing and organising App Store account
 - Planning road maps for products strategy
 
+**Achievements**
+
+- Make profit by published app in AppStore
+- Running an one person startup company
+- Successfully applied MFi license from Apple through DJI
+- Keep improve architecture for ADSB Radar 
+- Build a small but strong iOS team 
+
 ###May 2016 - Feb 2017 &nbsp;&nbsp;Mobile App Developer, MobileDEN Pty Ltd, Sydney
 **Key Tech:** Swift 3, Objective-C, Java, Git
 
@@ -85,7 +109,14 @@ MobileDEN is a startup mobile app agent company. It has several well-known fast-
 **Duties and Responsibilities:**  
 
 - Developing iOS apps  
-- Maintaining previous iOS project   
+- Maintaining previous iOS project 
+  
+**Achievements**
+
+- Publish Starbucks app on AppStore
+- Publish RedRoaster app on AppStore
+- Publish Oporto app on AppStore
+- Design the architecture of a white label app
 
 ###May 2010 - April 2016 &nbsp;&nbsp;Mobile App Developer, Digiflex Pty Ltd, Sydney
 **Key Tech:** Objective-c, Swift, Java, Go, PHP, Git, dBase, Delphi, LabVIEW
@@ -98,13 +129,21 @@ Digiflex is a native Australian electronic security company which provides acces
 - Assessing iOS app security  
 - Developing Android apps  
 - Developing back end app server  
-
  
 ***Other Duties:***  
 
 - Maintaining PCB tester program on LabVIEW and National Instruments;   
 - Developed firmware programming application platform application by Delphi;  
 - Maintaining Inventory Database CA-Clipper code dBASE structure  
+
+**Achievements**
+
+- Publish three iOS apps on AppStore
+- Publish three Android apps on Google Play
+- Create and maintain backend service
+- Manager an outsource Android team remotely
+- Design the architecture of a full stack system
+
 
 ###2009 &nbsp;&nbsp;Help-desk Technician, Aegon-Cnooc Life Insurance Corporation, Shanghai
 **Key Tech:** Enterprise resource planning (ERP), Active Directory, Windows Server, SQL Server
@@ -218,6 +257,5 @@ Major in E-commerce and project management.
 **Roles:** Framework Designer & Application Developer  
  
 
-Sep 2018 Edition
- 
+September 2018 Edition 
  
