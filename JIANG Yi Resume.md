@@ -1,4 +1,4 @@
-# JIANG Yi  
+# Yi Jiang. 
 
 Address:  
 &nbsp;&nbsp;&nbsp;&nbsp;Unit 5 / 43-47 Cross Rd.  
@@ -38,7 +38,7 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
  
 ##Career Experience
 ###Apr 2018 - Now &nbsp;&nbsp;Senior iOS Developer, Optus, Sydney
-**Key Tech:** iOS, Swift 4, Git, CI/CD
+**Key Tech:** iOS, Swift, Git, CI/CD, UIAccessibility, A/B Test
 
 [Optus](http://www.optus.com.au/) is the second largest telecommunications company in Australia. I am working in the new funded tribe of Digital Hub for MyOptus mobile app project. The MyOptus app is the primary app for Optus customer to checking account balance, data usage and even more comprehensive features.
 
@@ -53,8 +53,10 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
 
 
 
+
+
 ###Aug 2017 - Mar 2018 &nbsp;&nbsp;iOS Team Leader, Thred, Sydney
-**Key Tech:** Swift 4, ARKit, SceneKit, Git
+**Key Tech:** Swift, ARKit, SceneKit, Git
 
 [Thred](https://www.thred.im/) is an ASX listed startup company. It is an innovative technology company specialising in augmented reality and location-based technologies. It created an instant messaging app Sweep, with AR and geolocation feature.   
 
