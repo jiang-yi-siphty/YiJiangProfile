@@ -1,4 +1,4 @@
-# JIANG Yi  
+# Yi Jiang  
 
 Address:  
 &nbsp;&nbsp;&nbsp;&nbsp;Unit 5 / 43-47 Cross Rd.  
@@ -39,15 +39,16 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
   
  
 ##Career Experience
+
 ###Apr 2018 - Till Now &nbsp;&nbsp;Senior iOS Developer, Optus
 **Project:**   
 &nbsp;&nbsp;&nbsp;&nbsp;**MyOptus**  [https://goo.gl/dTY1eg](https://itunes.apple.com/au/app/my-optus/id503716230)   
 
 MyOptus is the best place to manage Optus account from billing to data usage for Optus mobile account and Optus broadband account.    
 
-**Key Tech:** iOS, Swift 4, Git, CI/CD
+**Key Tech:** iOS, Swift, Git, CI/CD, UIAccessibility, A/B Test
 
-Optus ([http://www.optus.com.au/](http://www.optus.com.au/)) is the second largest telecommunications company in Australia. I am working in the new funded tribe of Digital Hub for MyOptus mobile app project. The MyOptus app is the primary app for Optus customer to checking account balance, data usage and even more comprehensive features.
+Optus ([http://www.optus.com.au/](http://www.optus.com.au/)) is the second largest telecommunications company in Australia. I am working in the new funded tribe of Digital Hub for MyOptus mobile app project.
 
 **Duties and Responsibilities:**  
  
@@ -65,8 +66,6 @@ Optus ([http://www.optus.com.au/](http://www.optus.com.au/)) is the second large
 - Make automation development on CI/CD
 - Make unit test coverage reach 80%
 - Implement better user experience design
-
-
 
 ###Aug 2017 - Mar 2018 &nbsp;&nbsp;iOS Team Leader, Thred Pty Ltd
 **Project:**   
@@ -92,7 +91,7 @@ Thred ([https://www.thred.im/](https://www.thred.im/)) is an ASX listed startup 
 - Refactored architecture of Sweep
 - Keep Git workflow clean and organized
 
-###Feb 2017 - Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd
+###Feb 2017 - Till Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd
 **Projects:**   
 &nbsp;&nbsp;&nbsp;&nbsp;**ADSB Radar**  [https://goo.gl/GWzaBP](https://goo.gl/GWzaBP)  
 &nbsp;&nbsp;&nbsp;&nbsp;**HMD**  [https://goo.gl/2e2uUq](https://goo.gl/2e2uUq)  
