@@ -1,16 +1,16 @@
 # Yi Jiang  
 
 Address:  
-&nbsp;&nbsp;&nbsp;&nbsp;Unit 5 / 43-47 Cross Rd.  
+&nbsp;&nbsp;&nbsp;&nbsp;Unit 5 / 43-47 Cross Street    
 &nbsp;&nbsp;&nbsp;&nbsp;Baulkham Hills, NSW, 2153 Australia   
-Mobile: 0433 092 885  
+Mobile: 04 3309 2885  
 Email: <jiang.yi.work@gmail.com>  
 LinkedIn: &nbsp;[https://www.linkedin.com/in/jiang-yi-siphty](https://www.linkedin.com/in/jiang-yi-siphty)    
 Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)
 
 
 ##Profile
-I am a senior iOS app developer. I have 8 years iOS app development experience including over 6 years commercial application developing experience. I have two master's degrees in engineering study and ICT respectively. I got over 6 years security system industry working experience and two years start-up company working exerience. Now, I am working in Optus as a senior iOS developer.
+As a senior iOS app developer, I have 8 years iOS app development experience including over 7 years commercial application developing experience. I have two master's degrees in engineering study and ICT. I got over 6 years security system industry working experience and 4 years agile development working experience.  Now, I am working in BWS Woolworths with senior iOS developer role.
  
 ##Key Strengths
 - Expertise in iOS development lifecycle: From architecture to AppStore releasing
@@ -21,9 +21,9 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
  
 ##Skills    
 - **Expertise**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iOS**, **Swift**, **Objective-C**, **Mobile App Security**    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iOS**, **Swift**, **Objective-C** with and without Storyboard, **Mobile App Security**   
 - **Design Patterns**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MVC**, **MVC-VS**, **MVVM-C** with **RxSwift**, **Decorator**, **Observer**, **Singleton**      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MVC**, **MVVM**, **MVVM-C** with and without **RxSwift**  
 - **Agile Development**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Git**, **Jira**, **Tribe** and **Squad** work flow trained by **McKinsey**,   
 - **Testing and Debug**  
@@ -40,7 +40,29 @@ I am a senior iOS app developer. I have 8 years iOS app development experience i
  
 ##Career Experience
 
-###Apr 2018 - Till Now &nbsp;&nbsp;Senior iOS Developer, Optus
+###Nov 2018 - Now &nbsp;&nbsp;Senior iOS Developer, Woolworths, BWS
+**Project:**   
+&nbsp;&nbsp;&nbsp;&nbsp;**BWS app**  (Internal releasd)   
+
+BWS app is going to help customer purchase drinks any time, anywhere. The major features are shopping and browsing products, nearest BWS store finder, order delivery. It is a drinks store in the customer's pocket.
+
+**Key Tech:** iOS, Swift
+I am working in BWS department on a greenfield project. We are one squad development team with only two iOS developers. The app getting close to the final release. 
+
+**Duties and Responsibilities:**  
+ 
+- Develop new features for the app   
+- Develop the Home view for the app by design  
+- Working with our team members to build a stable app
+- Review another iOS developer's Pull Request
+
+**Achievements**
+
+- Improve code quality
+- Build the UI by design accurately  
+- Make API calls more efficient
+
+###Apr 2018 - Nov 2018 &nbsp;&nbsp;Senior iOS Developer, Optus
 **Project:**   
 &nbsp;&nbsp;&nbsp;&nbsp;**MyOptus**  [https://goo.gl/dTY1eg](https://itunes.apple.com/au/app/my-optus/id503716230)   
 
@@ -48,7 +70,7 @@ MyOptus is the best place to manage Optus account from billing to data usage for
 
 **Key Tech:** iOS, Swift, Git, CI/CD, UIAccessibility, A/B Test
 
-Optus ([http://www.optus.com.au/](http://www.optus.com.au/)) is the second largest telecommunications company in Australia. I am working in the new funded tribe of Digital Hub for MyOptus mobile app project.
+I was worked in the new funded tribe of Digital Hub for MyOptus mobile app project in Optus. I was trained modern Agile development by McKinsey in that period. We keep improving user experience, and bring more value to our customer.
 
 **Duties and Responsibilities:**  
  
