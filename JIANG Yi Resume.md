@@ -6,18 +6,20 @@ Address:
 Mobile: 04 3309 2885  
 Email: <jiang.yi.work@gmail.com>  
 LinkedIn: &nbsp;[https://www.linkedin.com/in/jiang-yi-siphty](https://www.linkedin.com/in/jiang-yi-siphty)    
-Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)
+Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)  
+Resume Repo: 
 
 
 ##Profile
-As a senior iOS app developer, I have 8 years iOS app development experience including over 7 years commercial application developing experience. I have two master's degrees in engineering study and ICT. I got over 6 years security system industry working experience and 4 years agile development working experience.  Now, I am working in BWS Woolworths with senior iOS developer role.
+As a senior iOS app developer, I have 8 years iOS app development experience including over 7 years of commercial application developing experience. I have two master's degrees in engineering study and ICT. I got over 6 years security system industry working experience and 4 years of agile development working experience.  Now, I am working for BWS Woolworths as a senior iOS developer.
  
 ##Key Strengths
 - Expertise in iOS development lifecycle: From architecture to AppStore releasing
 - Extensive knowledge of design patterns, multi-threading, database, frameworks
 - Strong Git/Jira skill with squad-tribe agile working experience
 - Curiosity in emerging technologies and learning Agility  
-- Strong communication skills   
+- Strong communication and team work skills 
+- Wide range of hobbies  
  
 ##Skills    
 - **Expertise**    
@@ -29,14 +31,19 @@ As a senior iOS app developer, I have 8 years iOS app development experience inc
 - **Testing and Debug**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Xcode Instruments**, **TDD**, **Unit Test**, **Integration Test**, **UI Test**
 - **App Publishing and CI/CD**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iTunesConnect**, **Fastline**, **Bamboo**, **Jenkins**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iTunesConnect**, **TestFlight**, **Fastline**, **Bamboo**, **Jenkins**  
 - **Other Languages**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Java**, **Go**, **PHP**, **C**, **Delphi**, **LabView**,  **LabView**, **CA-Clipper**, **dBase**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Java**, **Go**, **PHP**, **C**, **Delphi**, **LabView**, **CA-Clipper**, **dBase**   
 - **Other API/Framworks**      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**UIAccessibility**, **PushNotification**, **CoreLocation**, **MapKit**, **iBeacons**,      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ARKit**, **SceneKit**, **DJI SDK**, **Alamofire**, **Facebook SDK**,       
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Google Serial SDKs**, **Ably SDK**, **DarkSky API**
   
+##Open Source Project
+###SSTableView 
+Github: [https://github.com/jiang-yi-siphty/SSTableView](https://github.com/jiang-yi-siphty/SSTableView)
+
+The SSTableView is a TableView build by a scroll view and a stack view. The most common APIs are samilar with UITableView. In the SSTableView, developer can embed a ViewController in to SSTableViewCell which is impossible in dynamic UITableViewCell. Which means it can help developer to reuse exsiting ViewControllers in the TableViewCell.
  
 ##Career Experience
 
@@ -51,14 +58,14 @@ I am working in BWS department on a greenfield project. We are one squad develop
 
 **Duties and Responsibilities:**  
  
-- Develop new features for the app   
-- Develop the Home view for the app by design  
+- Develop new features for the app     
 - Working with our team members to build a stable app
 - Review another iOS developer's Pull Request
 
 **Achievements**
 
-- Improve code quality
+- Developed the more than 50% views of the app
+- Improve code quality of the project
 - Build the UI by design accurately  
 - Make API calls more efficient
 
@@ -113,13 +120,13 @@ Thred ([https://www.thred.im/](https://www.thred.im/)) is an ASX listed startup 
 - Refactored architecture of Sweep
 - Keep Git workflow clean and organized
 
-###Feb 2017 - Till Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd
+###Feb 2017 - Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd
 **Projects:**   
-&nbsp;&nbsp;&nbsp;&nbsp;**ADSB Radar**  [https://goo.gl/GWzaBP](https://goo.gl/GWzaBP)  
-&nbsp;&nbsp;&nbsp;&nbsp;**HMD**  [https://goo.gl/2e2uUq](https://goo.gl/2e2uUq)  
-ADSB Radar is an virtual radar with Geographic AR view. It can access an ADSB backend server to update all aircraft around a specific geographic location. 
+&nbsp;&nbsp;&nbsp;&nbsp;**ADSB Radar**    (Off the shelf due to refactor since May 2019)  
+&nbsp;&nbsp;&nbsp;&nbsp;**HMD**   (Off the shelf due to refactor)   
+ADSB Radar is an virtual radar with Geographic AR view. It can access an ADSB backend server to update all aircraft around a specific geographic location on a map. However, due to the backend server update, I need refactor this project since May 2019. It will be come back soon. 
 
-HMD is a DJI drone remote controller application with ADS-B collision avoiding system. It provides first person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones.    
+HMD is a DJI drone remote controller application with ADS-B collision avoiding system. It provides first person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones. Also under refactoring. 
 
 **Key Tech:** Swift 4.2, Golang, Git, DJI Mobile SDK   
 
@@ -227,5 +234,5 @@ Major in E-commerce and project management.
 
  
 
-October 2018 Edition 
+May 2019 Edition 
  
