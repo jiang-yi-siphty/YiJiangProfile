@@ -7,7 +7,7 @@ Mobile: 04 3309 2885
 Email: <jiang.yi.work@gmail.com>  
 LinkedIn: &nbsp;[https://www.linkedin.com/in/jiang-yi-siphty](https://www.linkedin.com/in/jiang-yi-siphty)    
 Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)  
-Resume Repo: 
+Resume Repo: [https://github.com/jiang-yi-siphty/YiJiangProfile](https://github.com/jiang-yi-siphty/YiJiangProfile)
 
 
 ##Profile
@@ -40,6 +40,11 @@ As a senior iOS app developer, I have 8 years iOS app development experience inc
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Google Serial SDKs**, **Ably SDK**, **DarkSky API**
   
 ##Open Source Project
+###FloatingButton 
+Github: [https://github.com/jiang-yi-siphty/FloatingButton](https://github.com/jiang-yi-siphty/FloatingButton)
+
+The Floating Button is a damo project to make a global floating button cross all views. It doesn't use any package managerment tool, like cocoapods, in this repo. You don't need to install pods before build the project. Just double click FloatingButton.xcodeproj in the folder to open the project automatically. :)  
+
 ###SSTableView 
 Github: [https://github.com/jiang-yi-siphty/SSTableView](https://github.com/jiang-yi-siphty/SSTableView)
 
