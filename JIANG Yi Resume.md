@@ -23,21 +23,22 @@ As a senior iOS app developer, I have 8 years iOS app development experience inc
  
 ##Skills    
 - **Expertise**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iOS**, **Swift**, **Objective-C** with and without Storyboard, **Mobile App Security**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iOS**, **Swift 5**, **Objective-C** with and without Storyboard  
 - **Design Patterns**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MVC**, **MVVM**, **MVVM-C** with and without **RxSwift**  
-- **Agile Development**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Git**, **Jira**, **Tribe** and **Squad** work flow trained by **McKinsey**,   
-- **Testing and Debug**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Xcode Instruments**, **TDD**, **Unit Test**, **Integration Test**, **UI Test**
-- **App Publishing and CI/CD**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iTunesConnect**, **TestFlight**, **Fastline**, **Bamboo**, **Jenkins**  
-- **Other Languages**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Java**, **Go**, **PHP**, **C**, **Delphi**, **LabView**, **CA-Clipper**, **dBase**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MVC**, **MVVM**, **MVVM-C** with and without **RxSwift**   
 - **Other API/Framworks**      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**UIAccessibility**, **PushNotification**, **CoreLocation**, **MapKit**, **iBeacons**,      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ARKit**, **SceneKit**, **DJI SDK**, **Alamofire**, **Facebook SDK**,       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Google Serial SDKs**, **Ably SDK**, **DarkSky API**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Google Serial SDKs**, **Ably SDK**, **DarkSky API**, **SwiftUI + Combine**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Lottie**, **SDWebImage**, **Starscream**, **Crashlytics**, **Fabric**    
+- **Agile Development**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Git**, **Jira**, **Tribe** and **Squad** work flow trained by **McKinsey**,   
+- **Testing and Debug**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Xcode Instruments**, **TDD**, **Unit Test**, **Integration Test**, **UI Test**  
+- **App Publishing and CI/CD**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iTunesConnect**, **TestFlight**, **Fastline**, **Bamboo**, **Jenkins**  
+- **Other Languages**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Java**, **Go**, **PHP**, **C**, **Delphi**, **LabView**, **CA-Clipper**, **dBase**  
   
 ##Open Source Project
 ###FloatingButton 
