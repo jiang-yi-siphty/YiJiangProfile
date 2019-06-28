@@ -112,13 +112,13 @@ I was worked in the new funded tribe of Digital Hub for MyOptus mobile app proje
   
 Sweep is a free app that allows users to engage with the world around them in a completely new way. Whether the user is sitting at a bar, in a university lecture hall or waiting for a train, Sweep’s unique Geochat features allow users to unlock exclusive chats based on their location.  
 
-**Key Tech:** Swift 4, ARKit, SceneKit, Git, Vuforia 
+**Key Tech:** Swift 4, ARKit, SceneKit, Git, Vuforia, RxSwift
 
 Thred ([https://www.thred.im/](https://www.thred.im/)) is an ASX listed startup company. It is an innovative technology company specialising in augmented reality and location-based technologies. It created an instant messaging app Sweep, with AR and geolocation feature.   
 
 **Duties and Responsibilities:**  
 
-- Develop new features for Sweep  
+- Develop new features for Sweep app by RxSwift
 - Managing the iOS develop team  
 - Managing and organising app release in the AppStore   
 
