@@ -10,10 +10,12 @@ Github: [https://github.com/jiang-yi-siphty](https://github.com/jiang-yi-siphty)
 Resume Repo: [https://github.com/jiang-yi-siphty/YiJiangProfile](https://github.com/jiang-yi-siphty/YiJiangProfile)
 
 
-##Profile
+##Profile  
+
 As a senior iOS app developer, I have 8 years iOS app development experience including over 7 years of commercial application developing experience. I have two master's degrees in engineering study and ICT. I got over 6 years security system industry working experience and 4 years of agile development working experience.  Now, I am just finished the contract with BWS Woolworths as a senior iOS developer.
  
-##Key Strengths
+##Key Strengths  
+
 - Expertise in iOS development lifecycle: From architecture to AppStore releasing
 - Extensive knowledge of design patterns, multi-threading, database, frameworks
 - Strong Git/Jira skill with squad-tribe agile working experience
@@ -22,6 +24,7 @@ As a senior iOS app developer, I have 8 years iOS app development experience inc
 - Wide range of hobbies  
  
 ##Skills    
+
 - **Expertise**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iOS**, **Swift 5**, **Objective-C** with and without Storyboard  
 - **Design Patterns**  
@@ -75,14 +78,14 @@ I worked in the BWS department on the greenfield project. The development team h
 - Build the UI by design accurately  
 - Make API calls more efficient
 
-###Apr 2018 - Nov 2018 &nbsp;&nbsp;Senior iOS Developer, Optus
+###Apr 2018 - Nov 2018 &nbsp;&nbsp;Senior iOS Developer, Optus  
+
 **Project:**   
 &nbsp;&nbsp;&nbsp;&nbsp;**MyOptus**  [https://goo.gl/dTY1eg](https://itunes.apple.com/au/app/my-optus/id503716230)   
 
 MyOptus is the best place to manage Optus account from billing to data usage for Optus mobile account and Optus broadband account.    
 
 **Key Tech:** iOS, Swift, Git, CI/CD, UIAccessibility, A/B Test  
-
 I was worked in the new funded tribe of Digital Hub for MyOptus mobile app project in Optus. I was trained in modern Agile development by McKinsey in that period. We keep improving user experience and bring more value to our customer.
 
 **Duties and Responsibilities:**  
@@ -102,7 +105,8 @@ I was worked in the new funded tribe of Digital Hub for MyOptus mobile app proje
 - Make unit test coverage reach 80%
 - Implement better user experience design
 
-###Aug 2017 - Mar 2018 &nbsp;&nbsp;iOS Team Leader, Thred Pty Ltd
+###Aug 2017 - Mar 2018 &nbsp;&nbsp;iOS Team Leader, Thred Pty Ltd  
+
 **Project:**   
 &nbsp;&nbsp;&nbsp;&nbsp;**Sweep**  [https://goo.gl/Wi4mSq](https://goo.gl/Wi4mSq)  
   
