@@ -52,14 +52,14 @@ The SSTableView is a TableView build by a scroll view and a stack view. The most
  
 ##Career Experience
 
-###Nov 2018 - Now &nbsp;&nbsp;Senior iOS Developer, Woolworths, BWS
+###Nov 2018 - Jul 2019 &nbsp;&nbsp;Senior iOS Developer, Woolworths, BWS
 **Project:**   
 &nbsp;&nbsp;&nbsp;&nbsp;**BWS app**  (Internal releasd)   
 
 BWS app is going to help customer purchase drinks any time, anywhere. The major features are shopping and browsing products, nearest BWS store finder, order delivery. It is a drinks store in the customer's pocket.
 
-**Key Tech:** iOS, Swift
-I am working in BWS department on a greenfield project. We are one squad development team with only two iOS developers. The app getting close to the final release. 
+**Key Tech:** iOS, Swift  
+I worked in the BWS department on the greenfield project. The development team has two iOS developers work with Android developers, UI/UX designer, and QA. The app has been released internally. It is going to be released in AppStore, soon. 
 
 **Duties and Responsibilities:**  
  
@@ -80,9 +80,9 @@ I am working in BWS department on a greenfield project. We are one squad develop
 
 MyOptus is the best place to manage Optus account from billing to data usage for Optus mobile account and Optus broadband account.    
 
-**Key Tech:** iOS, Swift, Git, CI/CD, UIAccessibility, A/B Test
+**Key Tech:** iOS, Swift, Git, CI/CD, UIAccessibility, A/B Test  
 
-I was worked in the new funded tribe of Digital Hub for MyOptus mobile app project in Optus. I was trained modern Agile development by McKinsey in that period. We keep improving user experience, and bring more value to our customer.
+I was worked in the new funded tribe of Digital Hub for MyOptus mobile app project in Optus. I was trained in modern Agile development by McKinsey in that period. We keep improving user experience and bring more value to our customer.
 
 **Duties and Responsibilities:**  
  
