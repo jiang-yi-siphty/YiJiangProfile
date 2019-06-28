@@ -11,7 +11,7 @@ Resume Repo: [https://github.com/jiang-yi-siphty/YiJiangProfile](https://github.
 
 
 ##Profile
-As a senior iOS app developer, I have 8 years iOS app development experience including over 7 years of commercial application developing experience. I have two master's degrees in engineering study and ICT. I got over 6 years security system industry working experience and 4 years of agile development working experience.  Now, I am working for BWS Woolworths as a senior iOS developer.
+As a senior iOS app developer, I have 8 years iOS app development experience including over 7 years of commercial application developing experience. I have two master's degrees in engineering study and ICT. I got over 6 years security system industry working experience and 4 years of agile development working experience.  Now, I am just finished the contract with BWS Woolworths as a senior iOS developer.
  
 ##Key Strengths
 - Expertise in iOS development lifecycle: From architecture to AppStore releasing
@@ -239,5 +239,5 @@ Major in E-commerce and project management.
 
  
 
-May 2019 Edition 
+Jul 2019 Edition 
  
