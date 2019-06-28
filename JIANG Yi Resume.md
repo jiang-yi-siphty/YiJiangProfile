@@ -12,7 +12,7 @@ Resume Repo: [https://github.com/jiang-yi-siphty/YiJiangProfile](https://github.
 
 ##Profile  
 
-As a senior iOS app developer, I have 8 years iOS app development experience including over 7 years of commercial application developing experience. I have two master's degrees in engineering study and ICT. I got over 6 years security system industry working experience and 4 years of agile development working experience.  Now, I am just finished the contract with BWS Woolworths as a senior iOS developer.
+As a senior iOS app developer, I have 8 years iOS app development experience including over 7 years of commercial application developing experience. I have two master's degrees in engineering study and ICT. I got over 6 years of security system industry working experience and 4 years of agile development working experience.  Now, I am just finished the contract with BWS Woolworths as a senior iOS developer.
  
 ##Key Strengths  
 
@@ -20,7 +20,7 @@ As a senior iOS app developer, I have 8 years iOS app development experience inc
 - Extensive knowledge of design patterns, multi-threading, database, frameworks
 - Strong Git/Jira skill with squad-tribe agile working experience
 - Curiosity in emerging technologies and learning Agility  
-- Strong communication and team work skills 
+- Strong communication and teamwork skills 
 - Wide range of hobbies  
  
 ##Skills    
@@ -47,12 +47,12 @@ As a senior iOS app developer, I have 8 years iOS app development experience inc
 ###FloatingButton 
 Github: [https://github.com/jiang-yi-siphty/FloatingButton](https://github.com/jiang-yi-siphty/FloatingButton)
 
-The Floating Button is a damo project to make a global floating button cross all views. It doesn't use any package managerment tool, like cocoapods, in this repo. You don't need to install pods before build the project. Just double click FloatingButton.xcodeproj in the folder to open the project automatically. :)  
+The Floating Button is a demo project to make a global floating button cross all views. It doesn't use any package management tool, like cocoapods, in this repo. You don't need to install pods before building the project. Just double click FloatingButton.xcodeproj in the folder to open the project automatically. :)  
 
 ###SSTableView 
 Github: [https://github.com/jiang-yi-siphty/SSTableView](https://github.com/jiang-yi-siphty/SSTableView)
 
-The SSTableView is a TableView build by a scroll view and a stack view. The most common APIs are samilar with UITableView. In the SSTableView, developer can embed a ViewController in to SSTableViewCell which is impossible in dynamic UITableViewCell. Which means it can help developer to reuse exsiting ViewControllers in the TableViewCell.
+The SSTableView is a TableView build by a scroll view and a stack view. The most common APIs are similar to UITableView. In the SSTableView, the developer can embed a ViewController into SSTableViewCell which is impossible in dynamic UITableViewCell. Which means it can help the developer to reuse existing ViewControllers in the TableViewCell.
  
 ##Career Experience
 
@@ -73,7 +73,7 @@ I worked in the BWS department on the greenfield project. The development team h
 
 **Achievements**
 
-- Developed the more than 50% views of the app
+- Developed more than 50% views of the app
 - Improve code quality of the project
 - Build the UI by design accurately  
 - Make API calls more efficient
@@ -92,14 +92,14 @@ I was worked in the new funded tribe of Digital Hub for MyOptus mobile app proje
  
 - Develop new features for MyOptus App (MOA) 
 - Maintain business as usual (BAU) tasks  
-- Working with our squad members in the tribe to take ownership of project
+- Working with our squad members in the tribe to take ownership of the project
 - Develop and update accessibility feature
 - Review other iOS developers' Pull Request
-- Setup and maintain CI/CD server for tribe
+- Setup and maintain CI/CD server for the tribe
 
 **Achievements**
 
-- Improve code quality to high level
+- Improve code quality to a high level
 - Help squad to achieve KPI target
 - Make automation development on CI/CD
 - Make unit test coverage reach 80%
@@ -110,7 +110,7 @@ I was worked in the new funded tribe of Digital Hub for MyOptus mobile app proje
 **Project:**   
 &nbsp;&nbsp;&nbsp;&nbsp;**Sweep**  [https://goo.gl/Wi4mSq](https://goo.gl/Wi4mSq)  
   
-Sweep is a free app that allows users to engage with the world around them in a completely new way.Whether the user is sitting at a bar, in a university lecture hall or waiting for a train, Sweep’s unique Geochat features allow users to unlock exclusive chats based on their location.  
+Sweep is a free app that allows users to engage with the world around them in a completely new way. Whether the user is sitting at a bar, in a university lecture hall or waiting for a train, Sweep’s unique Geochat features allow users to unlock exclusive chats based on their location.  
 
 **Key Tech:** Swift 4, ARKit, SceneKit, Git, Vuforia 
 
@@ -120,23 +120,23 @@ Thred ([https://www.thred.im/](https://www.thred.im/)) is an ASX listed startup 
 
 - Develop new features for Sweep  
 - Managing the iOS develop team  
-- Managing and organising app release in App Store   
+- Managing and organising app release in the AppStore   
 
 **Achievements**
 
 - Publish Sweep app on AppStore
 - Achieve every campaign target 
 - Make automation development on CI/CD
-- Refactored architecture of Sweep
+- Refactor architecture of Sweep
 - Keep Git workflow clean and organized
 
 ###Feb 2017 - Now &nbsp;&nbsp;Full Stack Developer, Siphty Pty Ltd
 **Projects:**   
 &nbsp;&nbsp;&nbsp;&nbsp;**ADSB Radar**    (Off the shelf due to refactor since May 2019)  
 &nbsp;&nbsp;&nbsp;&nbsp;**HMD**   (Off the shelf due to refactor)   
-ADSB Radar is an virtual radar with Geographic AR view. It can access an ADSB backend server to update all aircraft around a specific geographic location on a map. However, due to the backend server update, I need refactor this project since May 2019. It will be come back soon. 
+ADSB Radar is a virtual radar with Geographic AR view. It can access an ADSB backend server to update all aircraft around a specific geographic location on a map. However, due to the backend server update, I need refactor this project since May 2019. It will come back soon. 
 
-HMD is a DJI drone remote controller application with ADS-B collision avoiding system. It provides first person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones. Also under refactoring. 
+HMD is a DJI drone remote controller application with ADS-B collision avoiding system. It provides a first-person view and geographic AR view. It also warning drone operator to avoid drone No-Fly Zones. Also under refactoring. 
 
 **Key Tech:** Swift 4.2, Golang, Git, DJI Mobile SDK   
 
@@ -150,10 +150,10 @@ Siphty is a startup company fund by me with my friends. It hosts our innovation 
 
 **Achievements**  
 
-- Make profit by published app in AppStore  
-- Running an one person startup company  
-- Successfully applied MFi license from Apple through DJI  
-- Keep improve architecture for ADSB Radar   
+- Make profit by the published app in AppStore  
+- Running a one-person startup company  
+- Successfully applied for MFi license from Apple through DJI  
+- Keep improving architecture for ADSB Radar   
 - Build a small but strong iOS team   
 
 ###May 2016 - Feb 2017 &nbsp;&nbsp;Mobile App Developer, MobileDEN Pty Ltd
@@ -169,7 +169,7 @@ MobileDEN is a startup mobile app agent company. It has several well-known fast-
 **Duties and Responsibilities:**  
 
 - Developing iOS apps  
-- Maintaining previous iOS project 
+- Maintaining the previous iOS project 
   
 **Achievements**
 
